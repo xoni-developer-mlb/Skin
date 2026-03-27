@@ -1,6 +1,1 @@
-[
-  { "name": "Backup", "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero841-portrait.png/revision/latest?cb=20240611065004", "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_backup.zip" },
-  { "name": "Serene Plume", "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero846-portrait.png/revision/latest?cb=20220525165741", "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_collector.zip", "tag": "Collector" },
-  { "name": "Cosmo Guard", "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero845-portrait.png/revision/latest?cb=20220525165741", "script": "https://github.com/tin0521/assn/raw/refs/heads/main/ling_cosmo.zip", "tag": "Special" }
-]
-
+{"name": "Ling"}
