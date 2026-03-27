@@ -1,70 +1,54 @@
 [
   {
-    "name": "Blade of Roses",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20220525165242",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/blade_of_roses.zip"
-  },
-  {
-    "name": "Masked Knight",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest?cb=20220525165245",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/masked_knight.zip"
-  },
-  {
     "name": "Christmas Carnival",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
     "tag": "Christmas",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/christmas_carnival.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_christmas.zip"
   },
   {
     "name": "Dark Earl",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest?cb=20220525165248",
     "tag": "Starlight",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/dark_earl.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_darkearl.zip"
   },
   {
     "name": "Floral Knight",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb=20220525165250",
     "tag": "Epic",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/floral_knight.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_floralknight.zip"
   },
   {
     "name": "Royal Matador",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
     "tag": "Epic",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/royal_matador.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_royalmatador.zip"
   },
   {
     "name": "Swordmaster",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
     "tag": "Dawning Stars",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/swordmaster.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_swordmaster.zip"
   },
   {
     "name": "Pisces",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
     "tag": "Zodiac",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/pisces.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_pisces.zip"
   },
   {
     "name": "Bren Esports",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
     "tag": "Epic",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/bren_esports.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_bren.zip"
   },
   {
     "name": "Empyrean Flame",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/empyrean_flame.zip"
-  },
-  {
-    "name": "Marques of Blades",
-    "image": "https://raw.githubusercontent.com/lanz132/Img/main/lance.webp",
-    "tag": "Elite",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/marques_of_blades.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_emperyean.zip"
   },
   {
     "name": "Guardian of the Shrine",
     "image": "https://github.com/lanz132/NEWIMG/raw/main/lancelot%208-2-24.jpg",
-    "dow_url": "https://raw.githubusercontent.com/tin0521/assn/main/guardian_of_the_shrine.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_guardian.zip"
   }
 ]
