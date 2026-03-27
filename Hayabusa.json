@@ -1,73 +1,25 @@
 [
   {
-    "name": "Hayabusa",
-    "skin_name": "Backup",
+    "name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero211-portrait.png/revision/latest?cb=20220525170632",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_backup.zip",
-    "tag": "Backup"
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_backup.zip"
   },
   {
-    "name": "Hayabusa",
-    "skin_name": "Shura",
+    "name": "Shura",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_shura.zip",
     "tag": "11.11"
   },
   {
-    "name": "Hayabusa",
-    "skin_name": "Experiment 21",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero215-portrait.png/revision/latest?cb=20220525164754",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_experiment.zip",
-    "tag": "Annual Starlight"
+    "name": "Exorcist Hayabusa",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest?cb=20240520070715",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_exorcist.zip",
+    "tag": "Exorcist"
   },
   {
-    "name": "Hayabusa",
-    "skin_name": "Shadow of Obscurity",
+    "name": "Shadow of Obscurity",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero216-portrait.png/revision/latest?cb=20220525164755",
     "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_shadow.zip",
     "tag": "LuckyBox"
-  },
-  {
-    "name": "Hayabusa",
-    "skin_name": "Exorcist Hayabusa",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero102110-portrait.png/revision/latest?cb=20240520070715",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_exorcist.zip",
-    "tag": "Exorcists"
-  },
-  {
-    "name": "Hayabusa",
-    "skin_name": "Kakashi Hatake",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb=20250411101503",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_kakashi.zip",
-    "tag": "Naruto Shippuden"
-  },
-  {
-    "name": "Hayabusa",
-    "skin_name": "Biological Weapon",
-    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140707955.png",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_biological.zip",
-    "tag": "Starlight"
-  },
-  {
-    "name": "Hayabusa",
-    "skin_name": "Sushi Master",
-    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140707995.png",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_sushimaster.zip",
-    "tag": "Summer"
-  },
-  {
-    "name": "Hayabusa",
-    "skin_name": "Future Enforcer",
-    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140708007.png",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_futureenforcer.zip",
-    "tag": "Elite"
-  },
-  {
-    "name": "Hayabusa",
-    "skin_name": "Techie Ninja",
-    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_140707930.png",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_techieninja.zip",
-    "tag": "Elite"
   }
 ]
-
