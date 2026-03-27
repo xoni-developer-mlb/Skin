@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Bane",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20240605133609",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/bane_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Bane",
+    "skin_name": "Castle Master",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest?cb=20220525164539",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/bane_castle.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Bane",
+    "skin_name": "Soul Defiler",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest?cb=20230316133645",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/bane_soulepic.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Bane",
+    "skin_name": "Underworld Outlaw",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest?cb=20220525164542",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/bane_elite.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Bane",
+    "skin_name": "Warlord",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241015_145354128.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/bane_s11.zip",
+    "tag": "S11"
+  },
+  {
+    "name": "Bane",
+    "skin_name": "Lord of Scalding Sea",
+    "image": "https://github.com/Mexi23/DecUpdt25/raw/refs/heads/main/BaneIgmStarlight.jpeg",
+    "script": "https://github.com/tin0521/dec2025/raw/main/bane_star.zip",
+    "tag": "Starlight"
+  }
+]

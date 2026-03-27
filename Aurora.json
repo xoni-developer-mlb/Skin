@@ -1,1 +1,44 @@
-{"name": "Aurora"}
+[
+  {
+    "name": "Aurora",
+    "skin_name": "Maiden of the Glacier",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20240131102638",
+    "script": "https://github.com/tin0521/mge/raw/main/aurora_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Aurora",
+    "skin_name": "Kula Diamond",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero366-portrait.png/revision/latest?cb=20240212112500",
+    "script": "https://github.com/tin0521/mge/raw/main/aurora_kof.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Aurora",
+    "skin_name": "Aquarius",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero365-portrait.png/revision/latest?cb=20240212110806",
+    "script": "https://github.com/tin0521/mge/raw/main/aurora_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Aurora",
+    "skin_name": "Veil of the Celestials",
+    "image": "https://pbs.twimg.com/media/GS7qsTUbIAASiFJ?format=jpg&name=large",
+    "script": "https://github.com/tin0521/mge/raw/main/aurora_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Aurora",
+    "skin_name": "Foxy Lady",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_153414363.png",
+    "script": "https://github.com/tin0521/mge/raw/main/aurora_lunarfest.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "name": "Aurora",
+    "skin_name": "Heartbreak Empress",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_153414376.png",
+    "script": "https://github.com/tin0521/mge/raw/main/aurora_heartbreak.zip",
+    "tag": "Starlight"
+  }
+]

@@ -1,1 +1,72 @@
-{"name": "Angela"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero551-portrait.png/revision/latest?cb=20240501135306",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Shanghai Maiden",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest?cb=20220525165432",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_shanghai.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Scream Doll",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero555-portrait.png/revision/latest?cb=20220525165434",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_scream.zip",
+    "tag": "Halloween"
+  },
+  {
+    "skin_name": "V.E.N.O.M. Vespid",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero554-portrait.png/revision/latest?cb=20220525165433",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_venom.zip",
+    "tag": "V.E.N.O.M"
+  },
+  {
+    "skin_name": "Summer Vibes",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest?cb=20220525165435",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "skin_name": "Floral Elf",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest?cb=20220525165436",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "skin_name": "Heartstring",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero558-portrait.png/revision/latest?cb=20220525165437",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_sanrio.zip",
+    "tag": "Sanrio Characters"
+  },
+  {
+    "skin_name": "Cyber Cherubin",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero559-portrait.png/revision/latest?cb=20221103134616",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_aspirant.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "skin_name": "Avatar of Time",
+    "name": "Angela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero105510-portrait.png/revision/latest?cb=20240114125211",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_avatar.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "skin_name": "Strings of Fate",
+    "name": "Angela",
+    "image": "https://i.pinimg.com/736x/86/14/64/86146405831b37b460e3886fd473425f.jpg",
+    "script": "https://github.com/tin0521/supp/raw/main/angela_kishin.zip",
+    "tag": "Kishin Densetsu"
+  }
+]

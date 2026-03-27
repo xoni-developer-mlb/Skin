@@ -1,1 +1,58 @@
-{"name": "Aldous"}
+[
+  {
+    "name": "Aldous",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20240501075708",
+    "script": "https://github.com/tin0521/neww/raw/main/aldous_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Aldous",
+    "skin_name": "King of Supremacy",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
+    "script": "https://github.com/tin0521/neww/raw/main/aldous_m1.zip",
+    "tag": "M1"
+  },
+  {
+    "name": "Aldous",
+    "skin_name": "Starscream",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
+    "script": "https://github.com/tin0521/neww/raw/main/aldous_transformer.zip",
+    "tag": "Transformers"
+  },
+  {
+    "name": "Aldous",
+    "skin_name": "Blazing Force",
+    "image": "https://i.imgur.com/eEZn9Pi.jpeg",
+    "script": "https://github.com/tin0521/neww/raw/main/aldous_blazing.zip",
+    "tag": "Blazing Bounties"
+  },
+  {
+    "name": "Aldous",
+    "skin_name": "Realm Watcher",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
+    "script": "https://github.com/tin0521/neww/raw/main/aldous_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Aldous",
+    "skin_name": "Mistbender",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest?cb=20240114131253",
+    "script": "https://github.com/tin0521/neww/raw/main/aldous_mistbender.zip",
+    "tag": "Mistbender"
+  },
+  {
+    "name": "Aldous",
+    "skin_name": "Fathom Terror",
+    "image": "https://github.com/tin0521/Images/raw/refs/heads/main/img_20250818_173951072.png",
+    "script": "https://github.com/tin0521/neww/raw/main/aldous_newspecial.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Aldous",
+    "skin_name": "The Insentient",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241015_205729186.png",
+    "script": "https://github.com/tin0521/neww/raw/main/aldous_insentient.zip",
+    "tag": "Starlight"
+  }
+]

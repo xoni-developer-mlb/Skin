@@ -1,1 +1,37 @@
-{"name": "Argus"}
+[
+  {
+    "name": "Argus",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+    "script": "https://github.com/tin0521/ff/raw/main/argus_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Argus",
+    "skin_name": "Catastrophe",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest?cb=20220525165231",
+    "script": "https://github.com/tin0521/ff/raw/main/argus_catastrophe.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Argus",
+    "skin_name": "Dark Draconic",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest?cb=20220525165230",
+    "script": "https://github.com/tin0521/ff/raw/main/argus_dark.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Argus",
+    "skin_name": "Darth Vader",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest?cb=20220525165232",
+    "script": "https://github.com/tin0521/ff/raw/main/argus_starwars.zip",
+    "tag": "Star Wars"
+  },
+  {
+    "name": "Argus",
+    "skin_name": "Winged Nightmare",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241015_225343551.png",
+    "script": "https://github.com/tin0521/ff/raw/main/argus_s27.zip",
+    "tag": "S27"
+  }
+]

@@ -1,1 +1,37 @@
-{"name": "Aulus"}
+[
+  {
+    "name": "Aulus",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/aulos%20backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Aulus",
+    "skin_name": "War Lion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1084-portrait.png/revision/latest?cb=20221216103149",
+    "script": "https://github.com/tin0521/ff/raw/main/aulus_backup.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Aulus",
+    "skin_name": "Barren Pioneer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest?cb=20220525170455",
+    "script": "https://github.com/tin0521/ff/raw/main/aulus_barren.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Aulus",
+    "skin_name": "War Lion",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_224308816.png",
+    "script": "https://github.com/tin0521/ff/raw/main/aulus_warlion.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Aulus",
+    "skin_name": "Ironmane Reaver",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_224308791.png",
+    "script": "https://github.com/tin0521/ff/raw/main/aulus_s34.zip",
+    "tag": "S34"
+  }
+]

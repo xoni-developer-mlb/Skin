@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Alucard",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "script": "https://github.com/zetsuya05/january/raw/main/alucard_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Child of the Fall",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb=20220525164438",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_childofthefall.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Romantic Fantasy",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero076-portrait.png/revision/latest?cb=20220525164441",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_romanticfantasy.zip",
+    "tag": "Valentine"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Obsidian Blade",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest?cb=20220525164442",
+    "script": "https://github.com/zetsuya05/january/raw/main/alucard_legend-revamped.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Lightborn - Striker",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest?cb=20220920090132",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_lightborn.zip",
+    "tag": "Lightborn"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Obi-wan Kenobi",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest?cb=20220802034527",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_starwars.zip",
+    "tag": "Star Wars"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Viscount",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest?cb=20220525164439",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_viscount.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Demon's Bane",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero100711-portrait.png/revision/latest?cb=20241123045033",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_demonsbane.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Empire Agent",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241012_225154930.png",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_empireagent.zip",
+    "tag": "Special"
+  }
+]

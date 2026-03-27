@@ -1,1 +1,30 @@
-{"name": "Belerick"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Belerick",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest?cb=20220525165729",
+    "script": "https://github.com/tin0521/tnk/raw/main/belerick_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Emerald Guardian",
+    "name": "Belerick",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero705-portrait.png/revision/latest?cb=20220525165735",
+    "script": "https://github.com/tin0521/tnk/raw/main/belerick_emerald.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "The Deep One",
+    "name": "Belerick",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero704-portrait.png/revision/latest?cb=20220525165734",
+    "script": "https://github.com/tin0521/tnk/raw/main/belerick_deepone.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Arbiter of Stars",
+    "name": "Belerick",
+    "image": "https://pbs.twimg.com/media/GlboLdJa0AAxEqb?format=jpg&name=large",
+    "script": "https://github.com/tin0521/tnk/raw/main/belerick_arbiterstar.zip",
+    "tag": "Epic"
+  }
+]

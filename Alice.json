@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Alice",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero041-portrait.png/revision/latest?cb=20240605132522",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/alice_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Wizardy Teacher",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest?cb=20220525164350",
+    "script": "https://github.com/tin0521/mge/raw/main/alice_wizardry.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Divine Owl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest?cb=20220525164350",
+    "script": "https://github.com/tin0521/mge/raw/main/alice_divine.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Steam Glider",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest?cb=20220525164352",
+    "script": "https://github.com/tin0521/mge/raw/main/alice_steam.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Darknet Temptress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest?cb=20240619180019",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/alice_epicrevamped.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Alice",
+    "skin_name": "Jade Empress",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_143946383.png",
+    "script": "https://github.com/tin0521/mge/raw/main/alice_s29.zip",
+    "tag": "S29"
+  }
+]

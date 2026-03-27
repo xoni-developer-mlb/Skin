@@ -1,1 +1,79 @@
-{"name": "Claude"}
+[
+  {
+    "name": "Claude",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero651-portrait.png/revision/latest?cb=20240501064446",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Blazing Trace",
+    "image": "https://i.imgur.com/Jl6y6RC.jpeg",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_blazing.zip",
+    "tag": "Blazing Bounties"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Mecha Dragon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero654-portrait.png/revision/latest?cb=20240314064605",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_mecha.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Earth's MightiestM",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero657-portrait.png/revision/latest?cb=20220525165640",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_earth.zip",
+    "tag": "MSC"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Bad Bro",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero659-portrait.png/revision/latest?cb=20220525165642",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_sanrio.zip",
+    "tag": "Sanrio Characters"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Lifeguard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest?cb=20220525165638",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Heart Aflame",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero106510-portrait.png/revision/latest?cb=20230212035455",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_valentines.zip",
+    "tag": "Valentine"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero656-portrait.png/revision/latest?cb=20220525165639",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Challenger's Spark",
+    "image": "https://i.pinimg.com/736x/64/ca/e3/64cae3a419f8f7aaff82f7ff2b315db9.jpg",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_m6.zip",
+    "tag": "M6"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Cosmic Blaze",
+    "image": "https://i.pinimg.com/736x/d8/aa/d1/d8aad1d800fd87c02cdc17bb30508ee1.jpg",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_prime.zip",
+    "tag": "Prime"
+  },
+  {
+    "name": "Claude",
+    "skin_name": "Plunderous Pirate",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_201903742.png",
+    "script": "https://github.com/tin0521/mm/raw/main/claude_plunderous.zip",
+    "tag": "Starlight"
+  }
+]

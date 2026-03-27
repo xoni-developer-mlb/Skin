@@ -1,1 +1,51 @@
-{"name": "Bruno"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Bruno",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20240605133847",
+    "script": "https://github.com/tin0521/mm/raw/main/bruno_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Street Football",
+    "name": "Bruno",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero124-portrait.png/revision/latest?cb=20220525164550",
+    "script": "https://github.com/tin0521/mm/raw/main/bruno_streetfootball.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Firebolt",
+    "name": "Bruno",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest?cb=20220525164552",
+    "script": "https://github.com/tin0521/mm/raw/main/bruno_firebolt.zip",
+    "tag": "Dawning Stars"
+  },
+  {
+    "skin_name": "Halo Striker",
+    "name": "Bruno",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero128-portrait.png/revision/latest?cb=20221103134233",
+    "script": "https://github.com/tin0521/mm/raw/main/bruno_halostriker.zip",
+    "tag": "Neymar Jr"
+  },
+  {
+    "skin_name": "Neymar Jr",
+    "name": "Bruno",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero129-portrait.png/revision/latest?cb=20221103134235",
+    "script": "https://github.com/tin0521/mm/raw/main/bruno_neymarjr.zip",
+    "tag": "Neymar Jr"
+  },
+  {
+    "skin_name": "The Falcon",
+    "name": "Bruno",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest?cb=20220525164551",
+    "script": "https://github.com/tin0521/mm/raw/main/bruno_thefalcon.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Best DJ",
+    "name": "Bruno",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241021_220913739.png",
+    "script": "https://github.com/tin0521/mm/raw/main/bruno_bestdj.zip",
+    "tag": "Special"
+  }
+]

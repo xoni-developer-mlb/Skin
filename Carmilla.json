@@ -1,0 +1,30 @@
+[
+  {
+    "skin_name": "Backup",
+    "name": "Carmilla",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest?cb=20220525171356",
+    "script": "https://github.com/tin0521/supp/raw/main/carmilla_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Magician Girl",
+    "name": "Carmilla",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero923-portrait.png/revision/latest?cb=20220525170212",
+    "script": "https://github.com/tin0521/supp/raw/main/carmilla_magician.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Phantom Countess",
+    "name": "Carmilla",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero924-portrait.png/revision/latest?cb=20220525170213",
+    "script": "https://github.com/tin0521/supp/raw/main/carmilla_phantom.zip",
+    "tag": "Valentine"
+  },
+  {
+    "skin_name": "Astral Arcana",
+    "name": "Carmilla",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241021_173029385.png",
+    "script": "https://github.com/tin0521/tank/raw/main/carmilla_epic.zip",
+    "tag": "Epic"
+  }
+]

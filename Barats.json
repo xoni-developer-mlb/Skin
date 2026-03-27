@@ -1,1 +1,37 @@
-{"name": "Barats"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Barats",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20240103093200",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Toy Rex",
+    "name": "Barats",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero993-portrait.png/revision/latest?cb=20220525170308",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_toyrex.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Baratstein",
+    "name": "Barats",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero994-portrait.png/revision/latest?cb=20220525170309",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_baratstein.zip",
+    "tag": "Halloween"
+  },
+  {
+    "skin_name": "Sunken Predator",
+    "name": "Barats",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero996-portrait.png/revision/latest?cb=20241201052820",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_epic.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "War Chief",
+    "name": "Barats",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_211610603.png",
+    "script": "https://github.com/tin0521/ff/raw/main/barats_s26.zip",
+    "tag": "S26"
+  }
+]

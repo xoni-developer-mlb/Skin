@@ -1,1 +1,51 @@
-{"name": "Beatrix"}
+[
+  {
+    "name": "Beatrix",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero1051-portrait.png/revision/latest?cb=20240501053744",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/beatrix_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Beatrix",
+    "skin_name": "Blitz Attack",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest?cb=20220525170422",
+    "script": "https://github.com/tin0521/mm/raw/main/beatrix_blitz.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Beatrix",
+    "skin_name": "Light Chaser",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest?cb=20221216103144",
+    "script": "https://github.com/tin0521/mm/raw/main/beatrix_m4.zip",
+    "tag": "M4"
+  },
+  {
+    "name": "Beatrix",
+    "skin_name": "Stellar Briliance",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
+    "script": "https://github.com/tin0521/mm/raw/main/beatrix_prime.zip",
+    "tag": "Prime"
+  },
+  {
+    "name": "Beatrix",
+    "skin_name": "Vibrant Fiesta",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1057-portrait.png/revision/latest?cb=20230805043918",
+    "script": "https://github.com/tin0521/mm/raw/main/beatrix_vibrant.zip",
+    "tag": "Create"
+  },
+  {
+    "name": "Beatrix",
+    "skin_name": "Space Agent",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest?cb=20220525170423",
+    "script": "https://github.com/tin0521/mm/raw/main/beatrix_space.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Beatrix",
+    "skin_name": "Sky Force Maverick",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251005_172834981.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/beatrix_fmvp.zip",
+    "tag": "FMVP"
+  }
+]

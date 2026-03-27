@@ -1,1 +1,23 @@
-{"name": "Arlott"}
+[
+  {
+    "name": "Arlott",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20230208125736",
+    "script": "https://github.com/tin0521/assassin/raw/main/arlott_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Arlott",
+    "skin_name": "Fury of the Deep",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1203-portrait.png/revision/latest?cb=20240114160254",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/arlott_fury.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Arlott",
+    "skin_name": "Aeon of Twilight",
+    "image": "https://pbs.twimg.com/media/GWtLVTAX0AA0osH?format=jpg&name=large",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/arlott_collector.zip",
+    "tag": "Collector"
+  }
+]

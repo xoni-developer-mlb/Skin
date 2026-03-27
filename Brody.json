@@ -1,1 +1,51 @@
-{"name": "Brody"}
+[
+  {
+    "name": "Brody",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20220525172049",
+    "script": "https://github.com/tin0521/mm/raw/main/brody_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Brody",
+    "skin_name": "Ore-chemist",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest?cb=20220525170323",
+    "script": "https://github.com/tin0521/mm/raw/main/brody_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Brody",
+    "skin_name": "Quantum Grip",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero1006-portrait.png/revision/latest?cb=20230212035442",
+    "script": "https://github.com/tin0521/mm/raw/main/brody_mpl.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Brody",
+    "skin_name": "Lethal Fang",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero1004-portrait.png/revision/latest?cb=20220525170321",
+    "script": "https://github.com/tin0521/mm/raw/main/brody_lethal.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Brody",
+    "skin_name": "S.T.U.N. Brody",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
+    "script": "https://github.com/tin0521/mm/raw/main/brody_stun.zip",
+    "tag": "S.T.U.N"
+  },
+  {
+    "name": "Brody",
+    "skin_name": "APBren",
+    "image": "https://pbs.twimg.com/media/GWtKVLdb0AAWoYw?format=jpg&name=large",
+    "script": "https://github.com/tin0521/mm/raw/main/brody_champion.zip",
+    "tag": "Champion"
+  },
+  {
+    "name": "Brody",
+    "skin_name": "Neobeast Brody",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest?cb=20250320125011",
+    "script": "https://github.com/tin0521/mm/raw/main/brody_neobeast.zip",
+    "tag": "Neobeast"
+  }
+]

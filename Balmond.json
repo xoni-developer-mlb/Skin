@@ -1,1 +1,44 @@
-{"name": "Balmond"}
+[
+  {
+    "name": "Balmond",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest?cb=20240602234350",
+    "script": "https://github.com/tin0521/ff/raw/main/balmond_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Balmond",
+    "skin_name": "Infernal Warlord",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
+    "script": "https://github.com/tin0521/ff/raw/main/balmond_infernalwarrior.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Balmond",
+    "skin_name": "Savage Pointguard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest?cb=20220525164313",
+    "script": "https://github.com/tin0521/ff/raw/main/balmond_savagepointguard.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Balmond",
+    "skin_name": "God of Mountains",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero025-portrait.png/revision/latest?cb=20220525164309",
+    "script": "https://github.com/tin0521/ff/raw/main/balmond_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Balmond",
+    "skin_name": "Bioroid",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero027-portrait.png/revision/latest?cb=20220525164316",
+    "script": "https://github.com/tin0521/ff/raw/main/balmond_bioriod.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Balmond",
+    "skin_name": "Razor Edge",
+    "image": "https://pbs.twimg.com/media/GWtK0eNbAAAWZwm?format=jpg&name=large",
+    "script": "https://github.com/tin0521/ff/raw/main/balmond_razoredge.zip",
+    "tag": "Special"
+  }
+]

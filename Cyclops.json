@@ -1,1 +1,51 @@
-{"name": "Cyclops"}
+[
+  {
+    "name": "Cyclops",
+    "skin_name": "Starsoul Magician",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20240122082946",
+    "script": "https://github.com/zetsuya05/january/raw/main/cyclops_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Cyclops",
+    "skin_name": "Yokai Warlock",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
+    "script": "https://github.com/tin0521/mge/raw/main/cyclops_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Cyclops",
+    "skin_name": "S.A.B.E.R. Enforcer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png/revision/latest?cb=20220525165025",
+    "script": "https://github.com/tin0521/mge/raw/main/cyclops_saber.zip",
+    "tag": "S.A.B.E.R"
+  },
+  {
+    "name": "Cyclops",
+    "skin_name": "Straw Doll",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest?cb=20220525165032",
+    "script": "https://github.com/tin0521/mge/raw/main/cyclops_halloween.zip",
+    "tag": "Halloween"
+  },
+  {
+    "name": "Cyclops",
+    "skin_name": "Master Yoda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cb=20220525165031",
+    "script": "https://github.com/tin0521/mge/raw/main/cyclops_starwars.zip",
+    "tag": "Star Wars"
+  },
+  {
+    "name": "Cyclops",
+    "skin_name": "Deep Sea Rescuer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero335-portrait.png/revision/latest?cb=20220525165029",
+    "script": "https://github.com/tin0521/mge/raw/main/cyclops_deepsea.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Cyclops",
+    "skin_name": "Spongebob",
+    "image": "https://github.com/tin0521/dec2025/raw/main/cyclops_sponge.png",
+    "script": "https://github.com/zetsuya05/january/raw/main/cyclops_spongebob.zip",
+    "tag": "Spongebob"
+  }
+]

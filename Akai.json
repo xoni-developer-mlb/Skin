@@ -1,1 +1,51 @@
-{"name": "Akai"}
+[
+  {
+    "name": "Akai",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero091-portrait.png/revision/latest?cb=20240605133305",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Akai",
+    "skin_name": "Kung Fu Panda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero098-portrait.png/revision/latest?cb=20220804115325",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_kungfu.zip",
+    "tag": "Kung Fu Panda"
+  },
+  {
+    "name": "Akai",
+    "skin_name": "Monk",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero093-portrait.png/revision/latest?cb=20220525164514",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_monk.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Akai",
+    "skin_name": "Pumpkin Brawler",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero099-portrait.png/revision/latest?cb=20230917045305",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_halloween.zip",
+    "tag": "Halloween"
+  },
+  {
+    "name": "Akai",
+    "skin_name": "Imperial Assassin",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero095-portrait.png/revision/latest?cb=20220525164516",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_imperial.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Akai",
+    "skin_name": "Street Enforcer",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241018_223833576.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_s19.zip",
+    "tag": "S19"
+  },
+  {
+    "name": "Akai",
+    "skin_name": "Marvelous Maestro",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241018_223833533.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_anniversary.zip",
+    "tag": "Anniversary"
+  }
+]

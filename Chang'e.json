@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Chang'e",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero611-portrait.png/revision/latest?cb=20240121134835",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Tech Tensai",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero106110-portrait.png/revision/latest?cb=20240130070359",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_aspirant.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Vine Cradle",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero617-portrait.png/revision/latest?cb=20220525165545",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_vine.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "New Moon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero619-portrait.png/revision/latest?cb=20221216103139",
+    "script": "https://github.com/tin0521/2026/raw/refs/heads/main/changE_lunarfest.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Lunar Magic",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest?cb=20220525165543",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_lunarmagic.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Strawberry Parfait",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero616-portrait.png/revision/latest?cb=20220525165544",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_strawberry.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Moon Artist",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero618-portrait.png/revision/latest?cb=20220525165546",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_sanrio.zip",
+    "tag": "Sanrio Characters"
+  },
+  {
+    "name": "Chang'e",
+    "skin_name": "Floral Elfo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero614-portrait.png/revision/latest?cb=20240121135031",
+    "script": "https://github.com/tin0521/mge/raw/main/changE_floral.zip",
+    "tag": "Special"
+  }
+]

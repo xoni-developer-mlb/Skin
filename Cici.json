@@ -1,1 +1,30 @@
-{"name": "Cici"}
+[
+  {
+    "name": "Cici",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb=20240120070411",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/cici_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Cici",
+    "skin_name": "Whimsical Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero1232-portrait.png/revision/latest?cb=20231227083250",
+    "script": "https://github.com/tin0521/ff/raw/main/cici_whimsical.zip",
+    "tag": "Basic"
+  },
+  {
+    "name": "Cici",
+    "skin_name": "Circus Reverie",
+    "image": "https://github.com/gg0521/january/raw/refs/heads/main/img_20250118_172821472.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/cici_star.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Cici",
+    "skin_name": "P.ACE",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251006_193756983.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/cici_pace.zip",
+    "tag": "P.ACE"
+  }
+]

@@ -1,1 +1,51 @@
-{"name": "Badang"}
+[
+  {
+    "name": "Badang",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/badang_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Susanoo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero773-portrait.png/revision/latest?cb=20220525165819",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_susanoo.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Fist of Zen",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Leo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_leo.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Pegasus Seiya",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero777-portrait.png/revision/latest?cb=20220915122044",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_pegasus.zip",
+    "tag": "Saint Seiya"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Sagittarius Seiya",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero778-portrait.png/revision/latest?cb=20220915122047",
+    "script": "https://github.com/tin0521/ff/raw/main/badang_sagittarious.zip",
+    "tag": "Saint Seiya"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Steel Arm",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/badang%20Portrait.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/badang_special.zip",
+    "tag": "Special"
+  }
+]

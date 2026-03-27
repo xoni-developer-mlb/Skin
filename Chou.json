@@ -1,1 +1,86 @@
-{"name": "Chou"}
+[
+  {
+    "name": "Chou",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/chou_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Dragon Boy",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cb=20220525164851",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_dragonboy.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Iori Yagami",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_kof.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Thunderfist",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_thunderfist.zip",
+    "tag": "Dawning Stars"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "S.T.U.N. Chou",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_stun.zip",
+    "tag": "S.T.U.N"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Libra Shiryu",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb=20220915121517",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_librashiryu.zip",
+    "tag": "Saint Seiya"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Dragon Shiryu",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb=20220915121509",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_dragonshiryu.zip",
+    "tag": "Saint Seiya"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "ECHO",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cb=20230805043953",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_echo.zip",
+    "tag": "Champion"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Go Ballistic",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb=20220525164855",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_balistic.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Kung-Fu Boy (Chinese Version)",
+    "image": "https://alicdn.web.moontonapp.com/web/svnres/file/mlbb-cn/website-test/100_e4ef3ad0c0e2d8739aedc5408df1d23e.jpg",
+    "script": "https://github.com/injector-origin/random-files/raw/main/261-zh.zip",
+    "tag": "Chinese Version"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "King of Muay Thai",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_muaythai.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Furious Tiger",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest?cb=20220525164853",
+    "script": "https://github.com/tin0521/ff/raw/main/chou_furious.zip",
+    "tag": "Special"
+  }
+]

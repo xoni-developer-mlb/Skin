@@ -1,1 +1,16 @@
-{"name": "Chip"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Chip",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero1241-portrait.png/revision/latest?cb=20240321084340",
+    "script": "https://github.com/tin0521/supp/raw/main/chip_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Badlands Hiatus",
+    "name": "Chip",
+    "image": "https://pbs.twimg.com/media/GS5qtaIb0AE6Vym?format=jpg&name=large",
+    "script": "https://github.com/tin0521/supp/raw/main/chip_badlands.zip",
+    "tag": "Elite"
+  }
+]

@@ -1,1 +1,51 @@
-{"name": "Alpha"}
+[
+  {
+    "name": "Alpha",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
+    "script": "https://github.com/tin0521/ff/raw/main/alpha_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Alpha",
+    "skin_name": "Onimusha Commander",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest?cb=20220525164918",
+    "script": "https://github.com/tin0521/ff/raw/main/alpha_onimusha.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Alpha",
+    "skin_name": "Crimson Warrior",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest?cb=20220525164922",
+    "script": "https://github.com/tin0521/ff/raw/main/alpha_crimsonwarrior.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Alpha",
+    "skin_name": "General Void",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest?cb=20220525164923",
+    "script": "https://github.com/tin0521/ff/raw/main/alpha_abyss.zip",
+    "tag": "Abyss"
+  },
+  {
+    "name": "Alpha",
+    "skin_name": "Mecha-King Perseus",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero288-portrait.png/revision/latest?cb=20240503043857",
+    "script": "https://github.com/tin0521/ff/raw/main/alpha_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Alpha",
+    "skin_name": "Star Enforcer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest?cb=20230805043831",
+    "script": "https://github.com/tin0521/ff/raw/main/alpha_starenforcer.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Alpha",
+    "skin_name": "Revenant of Roses",
+    "image": "https://pbs.twimg.com/media/GlboX4PbkAAXXgh?format=jpg&name=small",
+    "script": "https://github.com/tin0521/ff/raw/main/alpha_legend.zip",
+    "tag": "Legend"
+  }
+]

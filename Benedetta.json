@@ -1,1 +1,58 @@
-{"name": "Benedetta"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Benedetta",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/benedetta_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Vessel of Pride",
+    "image": "https://github.com/tin0521/January_2026/blob/main/benedetta%20soul.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip",
+    "tag": "Soul Vessel"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Death Oath",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest?cb=20220525170255",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_deathaoth.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Panigale V4S Rider",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest?cb=20230917045324",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_ducati.zip",
+    "tag": "Ducati"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Quantum Edge",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest?cb=20240314065930",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_quantumedge.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Moonblade",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero975-portrait.png/revision/latest?cb=20220525170256",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_moonblade.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Street Blow",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest?cb=20220525170254",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_street.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Phantom Mirage",
+    "image": "https://pbs.twimg.com/media/Glbn0L0a4AAYqoP?format=jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/benedetta_covenant.zip",
+    "tag": "Covenant"
+  }
+]

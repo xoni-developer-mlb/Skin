@@ -1,1 +1,79 @@
-{"name": "Clint"}
+[
+  {
+    "name": "Clint",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20240605133854",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/clint_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Cosmic Blast",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest?cb=20230316133647",
+    "script": "https://github.com/tin0521/mm/raw/main/clint_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Sun n Sand",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero132-portrait.png/revision/latest?cb=20220525164557",
+    "script": "https://github.com/tin0521/mm/raw/main/clint_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Shadow Omen",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest?cb=20220525164602",
+    "script": "https://github.com/tin0521/mm/raw/main/clint_m2.zip",
+    "tag": "M2"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Badminton Champion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest?cb=20220525164559",
+    "script": "https://github.com/tin0521/mm/raw/main/clint_badminton.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Operator CL",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest?cb=20220525164603",
+    "script": "https://github.com/tin0521/mm/raw/main/clint_operator.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Guns and Roses",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest?cb=20220525164557",
+    "script": "https://github.com/tin0521/mm/raw/main/clint_valentines.zip",
+    "tag": "Valentine"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Captain of the Reefs",
+    "image": "https://pbs.twimg.com/media/GSscbUZa0AAklun?format=jpg&name=large",
+    "script": "https://github.com/tin0521/mm/raw/main/clint_captain.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Rock and Roll",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero134-portrait.png/revision/latest?cb=20220525164558",
+    "script": "https://github.com/tin0521/mm/raw/main/clint_rockandroll.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Dragon's Maw",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero101312-portrait.png/revision/latest?cb=20241207073228",
+    "script": "https://github.com/tin0521/mm/raw/main/clint_myth2024.zip",
+    "tag": "Mythic"
+  },
+  {
+    "name": "Clint",
+    "skin_name": "Vessel of Ruin",
+    "image": "https://github.com/tin0521/dec2025/raw/main/clint_vessels.png",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/clint_def_soul.zip",
+    "tag": "Soul Vessels"
+  }
+]
