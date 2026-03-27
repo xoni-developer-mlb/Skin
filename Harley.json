@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero421-portrait.png/revision/latest?cb=20231231170336",
+    "script": "https://github.com/zetsuya05/january/raw/main/harley_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Dream Caster",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero427-portrait.png/revision/latest?cb=20220525165207",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Great Inventor",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero425-portrait.png/revision/latest?cb=20220525165205",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_greatinventor.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Referee",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Hero424-portrait.png/revision/latest?cb=20220525165204",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_referee.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Pulsar Prodigy",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero428-portrait.png/revision/latest?cb=20220915122657",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_starcaster.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Royal Magister",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest?cb=20220525165203",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_royal.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "V.E.N.O.M. Octopus",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero426-portrait.png/revision/latest?cb=20220525165207",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/harley_venom.zip",
+    "tag": "V.E.N.O.M"
+  },
+  {
+    "name": "Dreaming Koi",
+    "image": "https://github.com/zetsuya05/january/raw/main/harley_newstarlightimage.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/harley_newstarlight.zip",
+    "tag": "NewStarlight"
+  }
+]
+
