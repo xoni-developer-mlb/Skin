@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero241-portrait.png/revision/latest?cb=20240121131843",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Cyber Spectre",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero247-portrait.png/revision/latest?cb=20220525164836",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_cyber.zip",
+    "tag": "Create"
+  },
+  {
+    "name": "Grim Strangler",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero246-portrait.png/revision/latest?cb=20220525164835",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_grim.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Soul Huntress",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/natalia%20port.jpeg",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_newepic.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Warrioress Paragon",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_141304261.png",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Phantom Dancer",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241111_164642472.png",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_phantom.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Midnight Raven",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_141304303.png",
+    "script": "https://github.com/tin0521/neww/raw/main/natalia_midnight.zip",
+    "tag": "Special"
+  }
+]
+
