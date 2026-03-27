@@ -1,1 +1,51 @@
-{"name": "Vexana"}
+[
+  {
+    "name": "Vexana",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20240501104511",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Twisted Fairytale",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest?cb=20240326141745",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_zenith.zip",
+    "tag": "Zenith"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "The Sun Empress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest?cb=20230917045309",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Sanguine Rose",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest?cb=20220714134505",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_sanguine.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Circus Magician",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest?cb=20221103134615",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_circus.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Daybreak Halo",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/vexana.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/vexana_daybreak.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Cursed Shackle",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_154532602.png",
+    "script": "https://github.com/tin0521/mge/raw/main/vexana_s12.zip",
+    "tag": "S12"
+  }
+]

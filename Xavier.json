@@ -1,1 +1,37 @@
-{"name": "Xavier"}
+[
+  {
+    "name": "Xavier",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1151-portrait.png/revision/latest?cb=20220525172250",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/xavier_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Xavier",
+    "skin_name": "Beyond the Clouds Xavier",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest?cb=20230805043928",
+    "script": "https://github.com/tin0521/mge/raw/main/xavier_clouds.zip",
+    "tag": "Clouds"
+  },
+  {
+    "name": "Xavier",
+    "skin_name": "Satoru Gojo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest?cb=20230212035449",
+    "script": "https://github.com/tin0521/mge/raw/main/xavier_jujutsu.zip",
+    "tag": "Jujutsu Kaisen"
+  },
+  {
+    "name": "Xavier",
+    "skin_name": "Hardlight Artificer",
+    "image": "https://github.com/Maharlikoders/random-files/raw/main/11514.jpg",
+    "script": "https://github.com/tin0521/mge/raw/main/xavier_hardlight.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Xavier",
+    "skin_name": "Sunbord Monarch",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251026_163207278.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/xavier_collector.zip",
+    "tag": "Collector"
+  }
+]

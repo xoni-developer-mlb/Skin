@@ -1,1 +1,51 @@
-{"name": "Martis"}
+[
+  {
+    "name": "Martis",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/martis_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Martis",
+    "skin_name": "Levi",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest?cb=20240129101655",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/martis_levi.zip",
+    "tag": "Attack on Titan"
+  },
+  {
+    "name": "Martis",
+    "skin_name": "God of War",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero584-portrait.png/revision/latest?cb=20220804115332",
+    "script": "https://github.com/tin0521/ff/raw/main/martis_godofwar.zip",
+    "tag": "Luckybox"
+  },
+  {
+    "name": "Martis",
+    "skin_name": "Capricorn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero585-portrait.png/revision/latest?cb=20240114125523",
+    "script": "https://github.com/tin0521/ff/raw/main/martis_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Martis",
+    "skin_name": "Searing Maw",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero583-portrait.png/revision/latest?cb=20220525165507",
+    "script": "https://github.com/tin0521/ff/raw/main/martis_searingmaw.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Martis",
+    "skin_name": "Darkwater Terror",
+    "image": "https://pbs.twimg.com/media/GWtJ0H0WkAE6kr0?format=jpg&name=large",
+    "script": "https://github.com/tin0521/ff/raw/main/martis_darkwater.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Martis",
+    "skin_name": "Deathrock",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_173239375.png",
+    "script": "https://github.com/tin0521/ff/raw/main/martis_deathrock.zip",
+    "tag": "Special"
+  }
+]

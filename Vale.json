@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Vale",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero661-portrait.png/revision/latest?cb=20240501074947",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Supernal Tempest",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest?cb=20220525165650",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Keeper of the Winds",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest?cb=20230317102031",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_keeper.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Blizzard Storm",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest?cb=20220525165647",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_dawning.zip",
+    "tag": "Dawning Stars"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Soaring Devata",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest?cb=20220525165649",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_soaring.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Concerto of Light",
+    "image": "https://i.pinimg.com/736x/74/53/56/745356dd32d90afc96febf2e279bd42e.jpg",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_concerto.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "name": "Vale",
+    "skin_name": "Gaara",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest?cb=20250411101445",
+    "script": "https://github.com/tin0521/mge/raw/main/vale_gaara.zip",
+    "tag": "Naruto Shippuden"
+  }
+]

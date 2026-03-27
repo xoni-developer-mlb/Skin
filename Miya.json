@@ -1,1 +1,65 @@
-{"name": "Miya"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Miya",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20231231181124",
+    "script": "https://github.com/tin0521/mm/raw/main/miya_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Miya",
+    "skin_name": "Eternal Season - Miya",
+    "image": "https://github.com/tin0521/January_2026/raw/main/miya%20ethernal.jpg",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/miya_def_eternal.zip",
+    "tag": "Eternal Season"
+  },
+  {
+    "skin_name": "Modena Butterfly",
+    "name": "Miya",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero016-portrait.png/revision/latest?cb=20220525164230",
+    "script": "https://github.com/tin0521/mm/raw/main/miya_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "skin_name": "Doom Catalyst",
+    "name": "Miya",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero100111-portrait.png/revision/latest?cb=20220804115343",
+    "script": "https://github.com/tin0521/mm/raw/main/miya_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "skin_name": "Atomic Pop Miya",
+    "name": "Miya",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero100112-portrait.png/revision/latest?cb=20230316133748",
+    "script": "https://github.com/tin0521/mm/raw/main/miya_atomic.zip",
+    "tag": "Atomic Pop"
+  },
+  {
+    "skin_name": "Captain Thorns",
+    "name": "Miya",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero014-portrait.png/revision/latest?cb=20220525164219",
+    "script": "https://github.com/tin0521/mm/raw/main/miya_captain.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Nightowl Huntress",
+    "name": "Miya",
+    "image": "https://pbs.twimg.com/media/Gl_pcv8bsAATsYL?format=jpg&name=large",
+    "script": "https://github.com/tin0521/mm/raw/main/miya_starlight.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Honor",
+    "name": "Miya",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241021_193024864.png",
+    "script": "https://github.com/tin0521/mm/raw/main/miya_honor.zip",
+    "tag": "Honor"
+  },
+  {
+    "skin_name": "Moon Priestess",
+    "name": "Miya",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241021_193024801.png",
+    "script": "https://github.com/tin0521/mm/raw/main/miya_anniversary.zip",
+    "tag": "Anniversary"
+  }
+]

@@ -1,1 +1,30 @@
-{"name": "Novaria"}
+[
+  {
+    "name": "Novaria",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20240616052213",
+    "script": "https://github.com/tin0521/mge/raw/main/novaria_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Novaria",
+    "skin_name": "Sugar Glaze",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero1193-portrait.png/revision/latest?cb=20240129102653",
+    "script": "https://github.com/tin0521/mge/raw/main/novaria_sugarglaze.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Novaria",
+    "skin_name": "Dragonsworn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1194-portrait.png/revision/latest?cb=20240923124141",
+    "script": "https://github.com/tin0521/mge/raw/main/novaria_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Novaria",
+    "skin_name": "Lunar Scion",
+    "image": "https://github.com/zetsuya05/january/raw/main/novaria_specialimage.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/novaria_special.zip",
+    "tag": "Special"
+  }
+]

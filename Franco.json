@@ -1,1 +1,65 @@
-{"name": "Franco"}
+[
+  {
+    "name": "Franco",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101-portrait.png/revision/latest?cb=20240605133441",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Franco",
+    "skin_name": "Blazing Axe",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero107-portrait.png/revision/latest?cb=20220525164528",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_blazing.zip",
+    "tag": "Blazing Bounties"
+  },
+  {
+    "name": "Franco",
+    "skin_name": "Valhalla Ruler",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero106-portrait.png/revision/latest?cb=20220525164527",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_valhalla.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Franco",
+    "skin_name": "Wheatfield Nightmare",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero105-portrait.png/revision/latest?cb=20220525164526",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_halloween.zip",
+    "tag": "Halloween"
+  },
+  {
+    "name": "Franco",
+    "skin_name": "King of Hell",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest?cb=20221216103123",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Franco",
+    "skin_name": "Quantum Vanguard",
+    "image": "https://pbs.twimg.com/media/GSywthSbAAArCw3?format=jpg&name=4096x4096",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_mpl.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Franco",
+    "skin_name": "Apocalypse",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest?cb=20220525164524",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_apocalypse.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Franco",
+    "skin_name": "Locomotive",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241018_221652650.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_s9.zip",
+    "tag": "S9"
+  },
+  {
+    "name": "Franco",
+    "skin_name": "Masterchef",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241018_221652676.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/franco_masterchef.zip",
+    "tag": "Special"
+  }
+]

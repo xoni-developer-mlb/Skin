@@ -1,1 +1,37 @@
-{"name": "Johnson"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Johnson",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png/revision/latest?cb=20230826055045",
+    "script": "https://github.com/tin0521/tnk/raw/main/johnson_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Wreck King",
+    "name": "Johnson",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest?cb=20240429080448",
+    "script": "https://github.com/tin0521/tnk/raw/main/johnson_wreckking.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Optimus Prime",
+    "name": "Johnson",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest?cb=20220525165018",
+    "script": "https://github.com/tin0521/tnk/raw/main/johnson_transformer.zip",
+    "tag": "Transformers"
+  },
+  {
+    "skin_name": "S.A.B.E.R. Automata",
+    "name": "Johnson",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest?cb=20220525165012",
+    "script": "https://github.com/tin0521/tnk/raw/main/johnson_saber.zip",
+    "tag": "S.A.B.E.R"
+  },
+  {
+    "skin_name": "Sovereign of Realms",
+    "name": "Johnson",
+    "image": "https://pbs.twimg.com/media/GcWB3PdWAAA3xp_?format=jpg&name=large",
+    "script": "https://github.com/tin0521/tnk/raw/main/johnson_legend.zip",
+    "tag": "Legend"
+  }
+]

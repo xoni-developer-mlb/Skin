@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Kadita",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png/revision/latest?cb=20240121134111",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Kadita",
+    "skin_name": "Heart of the Sea",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero756-portrait.png/revision/latest?cb=20240619172453",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_create.zip",
+    "tag": "Create"
+  },
+  {
+    "name": "Kadita",
+    "skin_name": "Hydromancer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero755-portrait.png/revision/latest?cb=20230805043909",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_mpl.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Kadita",
+    "skin_name": "White Robin",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero753-portrait.png/revision/latest?cb=20240121134301",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_white.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Kadita",
+    "skin_name": "Maiden of the Tide",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/kadita_maiden.zip",
+    "tag": "Starlight"
+  }
+]

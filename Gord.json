@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Gord",
+    "skin_name": "Professor of the Mystics",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest?cb=20220525164812",
+    "script": "https://github.com/tin0521/mge/raw/main/gord_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Gord",
+    "skin_name": "No.1 Controller",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest?cb=20220525164819",
+    "script": "https://github.com/tin0521/mge/raw/main/gord_no1controller.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "name": "Gord",
+    "skin_name": "Conqueror",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest?cb=20240114091737",
+    "script": "https://github.com/tin0521/mge/raw/main/gord_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Gord",
+    "skin_name": "Cyber Hacker",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero237-portrait.png/revision/latest?cb=20240919051020",
+    "script": "https://github.com/tin0521/mge/raw/main/gord_cyber.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Gord",
+    "skin_name": "Imperator Vitalis",
+    "image": "https://pbs.twimg.com/media/GoLyXobacAAyVXJ?format=jpg&name=small",
+    "script": "https://github.com/tin0521/mge/raw/main/gord_imperator.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Gord",
+    "skin_name": "Christmas Carnival",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_144314802.png",
+    "script": "https://github.com/tin0521/mge/raw/main/gord_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Gord",
+    "skin_name": "Christmas Carnival",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_144314764.png",
+    "script": "https://github.com/tin0521/mge/raw/main/gord_s21.zip",
+    "tag": "S21"
+  }
+]

@@ -1,1 +1,44 @@
-{"name": "Lylia"}
+[
+  {
+    "name": "Lylia",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png/revision/latest?cb=20220525170038",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Phantasmal Revelry",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_131018.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/lylia_covenant.zip",
+    "tag": "Halloween"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Haunted Doll",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest?cb=20220525170051",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_halloween.zip",
+    "tag": "Halloween"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Neobeast Lylia",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png/revision/latest?cb=20230805043912",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_neobeast.zip",
+    "tag": "Neobeast"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Magitech Arsenal",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_183428060.png",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_futurestar.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Lylia",
+    "skin_name": "Future Star",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero867-portrait.png/revision/latest?cb=20240401090131",
+    "script": "https://github.com/tin0521/mge/raw/main/lylia_magitech.zip",
+    "tag": "Special"
+  }
+]

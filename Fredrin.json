@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Fredrin",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Fredrin",
+    "skin_name": "Neobeast Fredrinn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest?cb=20230805043932",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_neobeast.zip",
+    "tag": "Neobeast"
+  },
+  {
+    "name": "Fredrin",
+    "skin_name": "SPARKLE Fredrinn",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest?cb=20240411075808",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_sparkle.zip",
+    "tag": "Sparkle"
+  },
+  {
+    "name": "Fredrin",
+    "skin_name": "Royal Marshall",
+    "image": "https://github.com/tin0521/dec2025/raw/main/fredrinn_stars.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fredrinn_starlight.zip",
+    "tag": "Starlight"
+  }
+]

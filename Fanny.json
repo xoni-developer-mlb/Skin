@@ -1,71 +1,86 @@
 [
   {
-    "name": "Blade Dancer",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20220525164654",
-    "dow_url": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_backup.zip"
+    "skin_name": "Backup",
+    "name": "Fanny",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_backup.zip",
+    "tag": "Backup"
   },
   {
-    "name": "Punk Princess",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest?cb=20220525164703",
-    "dow_url": ""
+    "name": "Fanny",
+    "skin_name": "Galactic Starhawk",
+    "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip",
+    "tag": "Legend"
   },
   {
-    "name": "Royal Cavalry",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb=20220525164705",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20230214083603",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_royalcavalry.zip"
-  },
-  {
-    "name": "Christmas Carnival",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211201154100",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_christmas.zip"
-  },
-  {
-    "name": "Campus Youth",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest?cb=20220525164702",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cb=20210414064230",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_campusyouth.zip"
-  },
-  {
-    "name": "Lifeguard",
+    "name": "Fanny",
+    "skin_name": "Lifeguard",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cb=20210728125205",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_summer.zip"
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_summer.zip",
+    "tag": "Summer"
   },
   {
-    "name": "Skylark",
+    "name": "Fanny",
+    "skin_name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Mikasa",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb=20240127074733",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_mikasa.zip",
+    "tag": "Attack on Titan"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Skylark",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb=20220525164704",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cb=20220216162258",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_skylark.zip"
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_skylark.zip",
+    "tag": "LuckyBox"
   },
   {
-    "name": "Lightborn - Ranger",
+    "name": "Fanny",
+    "skin_name": "Lightborn - Ranger",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cb=20211211021856",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_lightborn.zip"
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_lightborn.zip",
+    "tag": "Lightborn"
   },
   {
-    "name": "Imperial Warrior",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest?cb=20220525164709",
-    "dow_url": ""
-  },
-  {
-    "name": "Blade of Kibou",
+    "name": "Fanny",
+    "skin_name": "Blade of Kibou",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220113105226",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_aspirant.zip"
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_aspirant.zip",
+    "tag": "Aspirants"
   },
   {
-    "name": "Heart Afloat",
+    "name": "Fanny",
+    "skin_name": "Heart Afloat",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb=20230212035453",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/thumbnail-down/width/45/height/20?cb=20220301023844",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_heartafloat.zip"
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_heartafloat.zip",
+    "tag": "Valentine"
   },
   {
-    "name": "Mikasa Ackerman",
-    "image": "https://raw.githubusercontent.com/kinAgonace/AOT/main/20240128_093235.jpg",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Attack_on_Titan_Skin_Tag.png/revision/latest/thumbnail-down/width/74/height/20?cb=20240127075501",
-    "dow_url": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_mikasa.zip"
+    "name": "Fanny",
+    "skin_name": "Campus Youth",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest?cb=20220525164702",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_campusyouth.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Royal Cavalry",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb=20220525164705",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_royalcavalry.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "P.ACE",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/fanny.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/fanny_pace.zip",
+    "tag": "Anniversary"
   }
 ]

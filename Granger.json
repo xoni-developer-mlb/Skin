@@ -1,1 +1,86 @@
-{"name": "Granger"}
+[
+  {
+    "name": "Granger",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png/revision/latest?cb=20220525165830",
+    "script": "https://github.com/zetsuya05/january/raw/main/granger_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Agent Z",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero796-portrait.png/revision/latest?cb=20220525165845",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Exorcist Granger",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero107910-portrait.png/revision/latest?cb=20240520065936",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_exorcist.zip",
+    "tag": "Exorcists"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Starfall Knight",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest?cb=20220525165846",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Lightborn - Overrider",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero795-portrait.png/revision/latest?cb=20220525165844",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_lightborn.zip",
+    "tag": "Lightborn"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Megatron",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest?cb=20220525165847",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_transformer.zip",
+    "tag": "Transformers"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Alluring Enigma",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero107911-portrait.png/revision/latest?cb=20240201102949",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_valentines.zip",
+    "tag": "Valentine"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Hellbringer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero799-portrait.png/revision/latest?cb=20220525165848",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_create.zip",
+    "tag": "Create"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Thunder Ascendant",
+    "image": "https://github.com/zetsuya05/january/raw/main/granger_m7image.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/granger_m7.zip",
+    "tag": "M7"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Cosmic Finality",
+    "image": "https://github.com/zetsuya05/january/raw/main/granger_primeimage.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/granger_prime.zip",
+    "tag": "Prime"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "Bio Solder",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_203513542.png",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_biosoldier.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Granger",
+    "skin_name": "B",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_203513542.png",
+    "script": "https://github.com/tin0521/mm/raw/main/granger_biosoldier.zip",
+    "tag": "Starlight"
+  }
+]

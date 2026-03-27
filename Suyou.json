@@ -1,0 +1,23 @@
+[
+  {
+    "skin_name": "Backup",
+    "name": "Suyou",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest?cb=20241021140902",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/suyou_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Suyou",
+    "skin_name": "Sasuke",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest?cb=20250411101450",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/suyou_sasuke.zip",
+    "tag": "Naruto Shippuden"
+  },
+  {
+    "name": "Suyou",
+    "skin_name": "Venerated Vigilance",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_141611094.png",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/suyou_venerated.zip",
+    "tag": "Basic"
+  }
+]

@@ -1,1 +1,37 @@
-{"name": "Popol and Kupa"}
+[
+  {
+    "name": "Popol and Kupa",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20240430165645",
+    "script": "https://github.com/tin0521/mm/raw/main/popol_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Popol and Kupa",
+    "skin_name": "Spirit of the Brush",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero946-portrait.png/revision/latest?cb=20240114142734",
+    "script": "https://github.com/tin0521/mm/raw/main/popol_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Popol and Kupa",
+    "skin_name": "Soundwave and Ravage",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero945-portrait.png/revision/latest?cb=20220525170232",
+    "script": "https://github.com/tin0521/mm/raw/main/popol_transformer.zip",
+    "tag": "Transformers"
+  },
+  {
+    "name": "Popol and Kupa",
+    "skin_name": "Pronto Hunter",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero947-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142828",
+    "script": "https://github.com/tin0521/mm/raw/main/popol_AS.zip",
+    "tag": "AS"
+  },
+  {
+    "name": "Popol and Kupa",
+    "skin_name": "Trouble Makers",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_205042894.png",
+    "script": "https://github.com/tin0521/mm/raw/main/popol_trouble.zip",
+    "tag": "Starlight"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Zilong",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest?cb=20240602234915",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Zilong",
+    "skin_name": "Dragon of Prosperity",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101612-portrait.png/revision/latest?cb=20240130065432",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_lunarfest.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "name": "Zilong",
+    "skin_name": "Empyrean Paladin",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest?cb=20220602112648",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Zilong",
+    "skin_name": "Summer Waves",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero169-portrait.png/revision/latest?cb=20220908164047",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Zilong",
+    "skin_name": "Changbanpo Commander",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest?cb=20240619180759",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_changbanpao.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Zilong",
+    "skin_name": "Storm Rider",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_011323678.png",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_515.zip",
+    "tag": "515"
+  },
+  {
+    "name": "Zilong",
+    "skin_name": "Christmas Carnival",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_011323731.png",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Zilong",
+    "skin_name": "Eastern Warrior",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_011323768.png",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_easternwarrior.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Zilong",
+    "skin_name": "Glorious General",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241013_011323781.png",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/zilong_gloriousgeneral.zip",
+    "tag": "Epic"
+  }
+]

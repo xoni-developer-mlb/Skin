@@ -1,1 +1,72 @@
-{"name": "Kagura"}
+[
+  {
+    "name": "Kagura",
+    "skin_name": "Onmyouji Master",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero251-portrait.png/revision/latest?cb=20240504224342",
+    "script": "https://github.com/zetsuya05/january/raw/main/kagura_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Kagura",
+    "skin_name": "Water Lily",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
+    "script": "https://github.com/tin0521/mge/raw/main/kagura_waterlily.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "name": "Kagura",
+    "skin_name": "Beyond the Clouds Kagura",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero259-portrait.png/revision/latest?cb=20230805043819",
+    "script": "https://github.com/tin0521/mage/raw/main/kagura_clouds.zip",
+    "tag": "Clouds"
+  },
+  {
+    "name": "Kagura",
+    "skin_name": "Soryu Maiden",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest?cb=20220525164843",
+    "script": "https://github.com/zetsuya05/january/raw/main/kagura_luckybox-revamped.zip",
+    "tag": "Luckybox"
+  },
+  {
+    "name": "Kagura",
+    "skin_name": "Exorcist Kagura",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cb=20220915121143",
+    "script": "https://github.com/tin0521/mge/raw/main/kagura_exorcist.zip",
+    "tag": "Exorcists"
+  },
+  {
+    "name": "Kagura",
+    "skin_name": "Cherry Witch",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero253-portrait.png/revision/latest?cb=20220525164841",
+    "script": "https://github.com/tin0521/mge/raw/main/kagura_cherry.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Kagura",
+    "skin_name": "Rainy Walk",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero256-portrait.png/revision/latest?cb=20220525164844",
+    "script": "https://github.com/tin0521/mge/raw/main/kagura_rainy.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Kagura",
+    "skin_name": "Summer Festival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero254-portrait.png/revision/latest?cb=20220628175959",
+    "script": "https://github.com/tin0521/mge/raw/main/kagura_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Kagura",
+    "skin_name": "Jade Blossom",
+    "image": "https://pbs.twimg.com/media/GWtLac9W8AADmMv?format=jpg&name=large",
+    "script": "https://github.com/tin0521/mage/raw/main/kagura_jade.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Kagura",
+    "skin_name": "Lady Parasol",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/kagura.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/kagura_lady.zip",
+    "tag": "Special"
+  }
+]

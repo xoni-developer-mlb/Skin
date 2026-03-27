@@ -1,1 +1,37 @@
-{"name": "Nolan"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Nolan",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest?cb=20231224180931",
+    "script": "https://github.com/zetsuya05/january/raw/main/nolan_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Nolan",
+    "skin_name": "Fashion Mogul",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest?cb=20240502082224",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_fashionmogul.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Nolan",
+    "skin_name": "Voidwalker",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest?cb=20231227085831",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_voidwalker.zip",
+    "tag": "Basic"
+  },
+  {
+    "name": "Nolan",
+    "skin_name": "The Navigator",
+    "image": "https://i.pinimg.com/736x/44/65/8d/44658ddc5580cd03d75fc88aa6032fe4.jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_thenavigator.zip",
+    "tag": "11.11"
+  },
+  {
+    "name": "Nolan",
+    "skin_name": "Spectral Strider",
+    "image": "https://github.com/zetsuya05/january/raw/main/nolan_epicimages.jpg",
+    "script": "https://github.com/zetsuya05/january/raw/main/nolan_epic.zip",
+    "tag": "Epic"
+  }
+]

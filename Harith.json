@@ -1,1 +1,58 @@
-{"name": "Harith"}
+[
+  {
+    "name": "Harith",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero731-portrait.png/revision/latest?cb=20240111124620",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Stardust",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest?cb=20220525165755",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_stardust.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Lightborn - Inspirer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest?cb=20220525165757",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_lightborn.zip",
+    "tag": "Lightborn"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "EVOS Legends",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest?cb=20220525165758",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_evos.zip",
+    "tag": "Champion"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Killua",
+    "image": "https://i.imgur.com/J9fpoZr.png",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_killua.zip",
+    "tag": "HxH"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Psychic",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest?cb=20240604141807",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero738-portrait.png/revision/latest?cb=20240114132704",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Harith",
+    "skin_name": "Fashion Expert",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero734-portrait.png/revision/latest?cb=20220525165756",
+    "script": "https://github.com/tin0521/mge/raw/main/harith_515.zip",
+    "tag": "515"
+  }
+]

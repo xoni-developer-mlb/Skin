@@ -1,1 +1,37 @@
-{"name": "Melissa"}
+[
+  {
+    "name": "Melissa",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cb=20220525170741",
+    "script": "https://github.com/tin0521/mm/raw/main/melissa_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Melissa",
+    "skin_name": "Nobara Kugisaki",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png/revision/latest?cb=20230212035448",
+    "script": "https://github.com/tin0521/mm/raw/main/melissa_jujutsu.zip",
+    "tag": "Jujutsu Kaisen"
+  },
+  {
+    "name": "Melissa",
+    "skin_name": "SPARKLE Melissa",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero1145-portrait.png/revision/latest?cb=20240402085724",
+    "script": "https://github.com/tin0521/mm/raw/main/melissa_sparkle.zip",
+    "tag": "Sparkle"
+  },
+  {
+    "name": "Melissa",
+    "skin_name": "Nightwalker",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1144-portrait.png/revision/latest?cb=20230917045331",
+    "script": "https://github.com/tin0521/mm/raw/main/melissa_nightwalker.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Melissa",
+    "skin_name": "Umbra Bloom",
+    "image": "https://pbs.twimg.com/media/GlbogAybwAEiyO5?format=jpg&name=small",
+    "script": "https://github.com/tin0521/mm/raw/main/melissa_collector.zip",
+    "tag": "Collector"
+  }
+]

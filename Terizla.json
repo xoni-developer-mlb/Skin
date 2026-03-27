@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Terizla",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero821-portrait.png/revision/latest?cb=20220525165940",
+    "script": "https://github.com/tin0521/ff/raw/main/terizla_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Terizla",
+    "skin_name": "Flames of Judgement",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero826-portrait.png/revision/latest?cb=20240417022448",
+    "script": "https://github.com/tin0521/ff/raw/main/terizla_flames.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Terizla",
+    "skin_name": "Soulblight Tyrant",
+    "image": "https://i.pinimg.com/736x/1d/6a/64/1d6a641e276bc8141ecb2c335f39f598.jpg",
+    "script": "https://github.com/tin0521/ff/raw/main/terizla_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Terizla",
+    "skin_name": "Hammer Giant",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_152044055.png",
+    "script": "https://github.com/tin0521/ff/raw/main/terizla_hammer.zip",
+    "tag": "Special"
+  }
+]

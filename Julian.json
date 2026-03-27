@@ -1,1 +1,44 @@
-{"name": "Julian"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Julian",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1161-portrait.png/revision/latest?cb=20220525170638",
+    "script": "https://github.com/tin0521/ff/raw/main/julian_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Julian",
+    "skin_name": "Itachi",
+    "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/itachi_julian.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/julian_itachi.zip",
+    "tag": "Naruto Shipuden"
+  },
+  {
+    "name": "Julian",
+    "skin_name": "Megumi Fushiguro",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest?cb=20230212035450",
+    "script": "https://github.com/tin0521/ff/raw/main/julian_jujutsu.zip",
+    "tag": "Jujutsu Kaisen"
+  },
+  {
+    "name": "Julian",
+    "skin_name": "Thunder Warden",
+    "image": "https://github.com/Maharlikoders/random-files/raw/main/116.png",
+    "script": "https://github.com/tin0521/ff/raw/main/julian_star.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Julian",
+    "skin_name": "Kurapika of Kurta",
+    "image": "https://i.imgur.com/5NvLqsp.jpeg",
+    "script": "https://github.com/tin0521/ff/raw/main/julian_kurapika.zip",
+    "tag": "HxH"
+  },
+  {
+    "name": "Julian",
+    "skin_name": "Meowkin",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/cutout-1756031794.png",
+    "script": "https://github.com/tin0521/ff/raw/main/julian_mysticmeow.zip",
+    "tag": "Mystic Meow"
+  }
+]

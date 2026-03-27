@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lapu%20backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Adlaw's Chosen",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero377-portrait.png/revision/latest?cb=20240114105426",
+    "script": "https://github.com/tin0521/ff/raw/main/lapu_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Special Force",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest?cb=20220525165118",
+    "script": "https://github.com/tin0521/ff/raw/main/lapu_specialforce.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Vulcan",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241015_190220413.png",
+    "script": "https://github.com/tin0521/ff/raw/main/lapu_vulcan.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Imperial Champion",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241015_190220425.png",
+    "script": "https://github.com/tin0521/ff/raw/main/lapu_imperial.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Son of the Wild",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241015_190220388.png",
+    "script": "https://github.com/tin0521/ff/raw/main/lapu_s28.zip",
+    "tag": "S28"
+  }
+]

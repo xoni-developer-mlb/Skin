@@ -1,1 +1,37 @@
-{"name": "Thamuz"}
+[
+  {
+    "name": "Thamuz",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744",
+    "script": "https://github.com/tin0521/ff/raw/main/thamuz_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Thamuz",
+    "skin_name": "Fenei Kai",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
+    "script": "https://github.com/tin0521/ff/raw/main/thamuz_kungfu.zip",
+    "tag": "Kung Fu Panda"
+  },
+  {
+    "name": "Thamuz",
+    "skin_name": "Sanctified Flame",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest?cb=20230514163423",
+    "script": "https://github.com/tin0521/ff/raw/main/thamuz_sanctified.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Thamuz",
+    "skin_name": "The Annihilator",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/thamuz.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/thamuz_11.zip",
+    "tag": "11.11"
+  },
+  {
+    "name": "Thamuz",
+    "skin_name": "Abyssal Reaper",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_220606218.png",
+    "script": "https://github.com/tin0521/ff/raw/main/thamuz_abyssal.zip",
+    "tag": "Special"
+  }
+]

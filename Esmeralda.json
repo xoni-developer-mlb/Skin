@@ -1,1 +1,51 @@
-{"name": "Esmeralda"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Esmeralda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest?cb=20240121135702",
+    "script": "https://github.com/tin0521/mge/raw/main/esme_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Astral Muse",
+    "name": "Esmeralda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero819-portrait.png/revision/latest?cb=20240329064826",
+    "script": "https://github.com/tin0521/mge/raw/main/esme_AS.zip",
+    "tag": "Allstars"
+  },
+  {
+    "skin_name": "Blazing Shadow",
+    "name": "Esmeralda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero816-portrait.png/revision/latest?cb=20220525165937",
+    "script": "https://github.com/tin0521/mge/raw/main/esme_blazing.zip",
+    "tag": "Blazing Bounties"
+  },
+  {
+    "skin_name": "Light Envoy",
+    "name": "Esmeralda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero818-portrait.png/revision/latest?cb=20220525165939",
+    "script": "https://github.com/tin0521/mge/raw/main/esme_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "skin_name": "Cleopatra",
+    "name": "Esmeralda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero815-portrait.png/revision/latest?cb=20220525165936",
+    "script": "https://github.com/tin0521/mge/raw/main/esme_cleopatra.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Lady Thief",
+    "name": "Esmeralda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero814-portrait.png/revision/latest?cb=20220525165935",
+    "script": "https://github.com/tin0521/mge/raw/main/esme_lady.zip",
+    "tag": "Valentine"
+  },
+  {
+    "skin_name": "The Foreseer",
+    "name": "Esmeralda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
+    "script": "https://github.com/tin0521/mge/raw/main/esme_dawning.zip",
+    "tag": "Dawning Stars"
+  }
+]

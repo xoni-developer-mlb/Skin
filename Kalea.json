@@ -1,0 +1,16 @@
+[
+  {
+    "skin_name": "Backup",
+    "name": "Kalea",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb=20250407160846",
+    "script": "https://github.com/tin0521/ff/raw/main/kalea_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Sakura Haruno",
+    "name": "Kalea",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
+    "script": "https://github.com/tin0521/ff/raw/main/kalea_sakura.zip",
+    "tag": "Naruto Shippuden"
+  }
+]

@@ -1,1 +1,58 @@
-{"name": "Eudora"}
+[
+  {
+    "name": "Eudora",
+    "skin_name": "Lightning Weaver",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero151-portrait.png/revision/latest?cb=20240605150035",
+    "script": "https://github.com/tin0521/mge/raw/main/eudora_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Eudora",
+    "skin_name": "Atomic Pop Eudora",
+    "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_120503.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/eudora_covenant.zip",
+    "tag": "Atomic Pop"
+  },
+  {
+    "name": "Eudora",
+    "skin_name": "Atomic Pop Eudora",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest?cb=20230316133651",
+    "script": "https://github.com/tin0521/mge/raw/main/eudora_atomic.zip",
+    "tag": "Atomic Pop"
+  },
+  {
+    "name": "Eudora",
+    "skin_name": "Emerald Enchantress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest?cb=20220525164633",
+    "script": "https://github.com/tin0521/mge/raw/main/eudora_emerald.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Eudora",
+    "skin_name": "Vivo Selfie Goddess",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest?cb=20220525164634",
+    "script": "https://github.com/tin0521/mge/raw/main/eudora_vivo.zip",
+    "tag": "Limited"
+  },
+  {
+    "name": "Eudora",
+    "skin_name": "Cosmic Voyage",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero157-portrait.png/revision/latest?cb=20220724063929",
+    "script": "https://github.com/tin0521/mge/raw/main/eudora_cosmic.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Eudora",
+    "skin_name": "Christmas Carnival",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241024_205541490.png",
+    "script": "https://github.com/tin0521/mge/raw/main/eudora_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Eudora",
+    "skin_name": "Emerald Enchantress",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241024_205541477.png",
+    "script": "https://github.com/tin0521/mge/raw/main/eudora_emerald.zip",
+    "tag": "Luckybox"
+  }
+]

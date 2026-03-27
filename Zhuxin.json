@@ -1,1 +1,30 @@
-{"name": "Zhuxin"}
+[
+  {
+    "name": "Zhuxin",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero1251-portrait.png/revision/latest?cb=20240815083019",
+    "script": "https://github.com/tin0521/mge/raw/main/zhuxin_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Zhuxin",
+    "skin_name": "Ethereal Serenity",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest?cb=20240815082622",
+    "script": "https://github.com/Maharlikoders/New-Default-Skin/raw/main/zhuxin%20basic.zip",
+    "tag": "Basic"
+  },
+  {
+    "name": "Zhuxin",
+    "skin_name": "Emberwisp Mystic",
+    "image": "https://pbs.twimg.com/media/Gc5_1XZaoAA21jC?format=jpg&name=large",
+    "script": "https://github.com/tin0521/mge/raw/main/zhuxin_emberwisp.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Zhuxin",
+    "skin_name": "P.ACE",
+    "image": "https://github.com/tin0521/Sept/raw/refs/heads/main/img_20251006_192447017.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/zhuxin_anniversary.zip",
+    "tag": "Anniversary"
+  }
+]

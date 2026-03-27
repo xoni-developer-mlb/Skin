@@ -1,1 +1,37 @@
-{"name": "Lolita"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Lolita",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero201-portrait.png/revision/latest?cb=20240605151404",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Impish Trickster",
+    "name": "Lolita",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_134245822.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_halloween.zip",
+    "tag": "Halloween"
+  },
+  {
+    "skin_name": "Lion Dance",
+    "name": "Lolita",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero204-portrait.png/revision/latest?cb=20220525164743",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_lunarfest.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "skin_name": "Genki Slam",
+    "name": "Lolita",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero206-portrait.png/revision/latest?cb=20240202093547",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_genkislam.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Starwatcher",
+    "name": "Lolita",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_134245768.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/lolita_rising.zip",
+    "tag": "Rising"
+  }
+]

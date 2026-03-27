@@ -1,1 +1,72 @@
-{"name": "Ruby"}
+[
+  {
+    "name": "Ruby",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero291-portrait.png/revision/latest?cb=20240612224841",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Ruby",
+    "skin_name": "Mecha Maiden",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest?cb=20221103134236",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_aspirant.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "name": "Ruby",
+    "skin_name": "Prismatic Plume",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest?cb=20230805043835",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Ruby",
+    "skin_name": "Lady Zombie",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero295-portrait.png/revision/latest?cb=20220525164936",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_ladyzombie.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Ruby",
+    "skin_name": "Pirate Parrot",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero296-portrait.png/revision/latest?cb=20220525164937",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_pirateparrot.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Ruby",
+    "skin_name": "Hidden Orchid Butterfly",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero293-portrait.png/revision/latest?cb=20220525164934",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_butterfly.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Ruby",
+    "skin_name": "Edelweiss",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero294-portrait.png/revision/latest?cb=20220525164936",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_edelweis.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Ruby",
+    "skin_name": "Crescent Dervish",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero102910-portrait.png/revision/latest?cb=20250109154352",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_crescent.zip",
+    "tag": "Golden Month"
+  },
+  {
+    "name": "Ruby",
+    "skin_name": "Neon Edge",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest?cb=20250109154353",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_neonedge.zip",
+    "tag": "Golden Month"
+  },
+  {
+    "name": "Ruby",
+    "skin_name": "Soul Reaper",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero299-portrait.png/revision/latest?cb=20240609013617",
+    "script": "https://github.com/tin0521/ff/raw/main/ruby_soulreaper.zip",
+    "tag": "Special"
+  }
+]

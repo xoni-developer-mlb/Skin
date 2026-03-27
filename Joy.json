@@ -1,1 +1,37 @@
-{"name": "Joy"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Joy",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1181-portrait.png/revision/latest?cb=20240501100807",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/joy_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Joy",
+    "skin_name": "Royal Protector",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest?cb=20240114155034",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/joy_royalprotector.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Joy",
+    "skin_name": "Feline Ranger",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest?cb=20221021123853",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/joy_felineranger.zip",
+    "tag": "Basic"
+  },
+  {
+    "name": "Joy",
+    "skin_name": "Exostar Scout",
+    "image": "https://pbs.twimg.com/media/GlbnhLxbwAESFzD?format=jpg",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/joy_exostarscout.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Joy",
+    "skin_name": "ONIC PH",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/GyYu9aQboAAokod.jpg_large.jpg",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/joy_fmvp.zip",
+    "tag": "FMVP"
+  }
+]

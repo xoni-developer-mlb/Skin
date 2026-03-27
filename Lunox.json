@@ -1,1 +1,58 @@
-{"name": "Lunox"}
+[
+  {
+    "name": "Lunox",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705",
+    "script": "https://github.com/zetsuya05/january/raw/main/lunox_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Butterfly Seraphim",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero686-portrait.png/revision/latest?cb=20220525165718",
+    "script": "https://github.com/zetsuya05/january/raw/main/lunox_luckybox-revamped.zip",
+    "tag": "Luckybox"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Dawn Revelation",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero688-portrait.png/revision/latest?cb=20220525165720",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_dawnrevelation.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Eyes of Eternity",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero687-portrait.png/revision/latest?cb=20220525165719",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_eyes.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Divine Goddess",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero689-portrait.png/revision/latest?cb=20230623125739",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Libra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero685-portrait.png/revision/latest?cb=20230917050312",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Quantum Polarity",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/lunox.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/lunox_mpl.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Lunox",
+    "skin_name": "Ash Blossom",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_181259207.png",
+    "script": "https://github.com/tin0521/mge/raw/main/lunox_ashblossom.zip",
+    "tag": "Starlight"
+  }
+]

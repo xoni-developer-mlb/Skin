@@ -1,1 +1,37 @@
-{"name": "Edith"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Edith",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20220525171947",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Beyond the Clouds Edith",
+    "name": "Edith",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest?cb=20230805043923",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_clouds.zip",
+    "tag": "Clouds"
+  },
+  {
+    "skin_name": "Red Bastion",
+    "name": "Edith",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1114-portrait.png/revision/latest?cb=20240405034912",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "skin_name": "Ancient Warden",
+    "name": "Edith",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1113-portrait.png/revision/latest?cb=20230409114636",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_ancient.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Prismatic Sentinel",
+    "name": "Edith",
+    "image": "https://raw.githubusercontent.com/injector-origin/random-files/refs/heads/main/473000539_912290804434491_1086208359595965438_n.jpg",
+    "script": "https://github.com/tin0521/tnk/raw/main/edith_mpl.zip",
+    "tag": "MPL"
+  }
+]

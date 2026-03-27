@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Zetian",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1291-portrait.png/revision/latest?cb=20250802160054",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/zetia_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Zetian",
+    "skin_name": "Starlight",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_133923.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/zetia_starlight.zip",
+    "tag": "Basic"
+  }
+]

@@ -1,1 +1,58 @@
-{"name": "Wanwan"}
+[
+  {
+    "name": "Wanwan",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero891-portrait.png/revision/latest?cb=20220525171214",
+    "script": "https://github.com/tin0521/mm/raw/main/wanwan_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Wanwan",
+    "skin_name": "Flying Swallow",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest?cb=20240114143134",
+    "script": "https://github.com/tin0521/mm/raw/main/wanwan_11.zip",
+    "tag": "11.11"
+  },
+  {
+    "name": "Wanwan",
+    "skin_name": "Pixel Blast",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest?cb=20220525170129",
+    "script": "https://github.com/tin0521/mm/raw/main/wanwan_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Wanwan",
+    "skin_name": "E-girl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest?cb=20220525170131",
+    "script": "https://github.com/tin0521/mm/raw/main/wanwan_mpl.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Wanwan",
+    "skin_name": "M-World Wanwan",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest?cb=20220525170132",
+    "script": "https://github.com/tin0521/mm/raw/main/wanwan_mworld.zip",
+    "tag": "MWorld"
+  },
+  {
+    "name": "Wanwan",
+    "skin_name": "Teen Pop",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest?cb=20220525170128",
+    "script": "https://github.com/tin0521/mm/raw/main/wanwan_teenpop.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Wanwan",
+    "skin_name": "Summer Splash",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/cutout-1756032494.png",
+    "script": "https://github.com/tin0521/mm/raw/main/wanwan_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Wanwan",
+    "skin_name": "Shoujo Commander",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_204312642.png",
+    "script": "https://github.com/tin0521/mm/raw/main/wanwan_shoujo.zip",
+    "tag": "Elite"
+  }
+]

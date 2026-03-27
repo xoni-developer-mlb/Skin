@@ -1,1 +1,23 @@
-{"name": "Ixia"}
+[
+  {
+    "name": "Ixia",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1211-portrait.png/revision/latest?cb=20231010041751",
+    "script": "https://github.com/tin0521/mm/raw/main/ixia_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Ixia",
+    "skin_name": "Dynamic Streak",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero1213-portrait.png/revision/latest?cb=20240227093444",
+    "script": "https://github.com/tin0521/mm/raw/main/ixia_dynamix.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Ixia",
+    "skin_name": "Invoker's Command",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/ixia%20portrait.png",
+    "script": "https://github.com/tin0521/mm/raw/main/ixia_metrozero.zip",
+    "tag": "Metrozero"
+  }
+]

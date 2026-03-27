@@ -1,1 +1,65 @@
-{"name": "Jawhead"}
+[
+  {
+    "name": "Jawhead",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest?cb=20240501074636",
+    "script": "https://github.com/tin0521/ff/raw/main/jawhead_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Jawhead",
+    "skin_name": "Samurai Mech",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero546-portrait.png/revision/latest?cb=20220525165417",
+    "script": "https://github.com/tin0521/ff/raw/main/jawhead_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Jawhead",
+    "skin_name": "Foo Quarterback",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero544-portrait.png/revision/latest?cb=20220525165414",
+    "script": "https://github.com/tin0521/ff/raw/main/jawhead_foo.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Jawhead",
+    "skin_name": "Cyber Ranger",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero548-portrait.png/revision/latest?cb=20220804115329",
+    "script": "https://github.com/tin0521/ff/raw/main/jawhead_cyberrange.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Jawhead",
+    "skin_name": "The Nutcracker",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero545-portrait.png/revision/latest?cb=20220525165416",
+    "script": "https://github.com/tin0521/ff/raw/main/jawhead_nutcracker.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Jawhead",
+    "skin_name": "Space Explorer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero543-portrait.png/revision/latest?cb=20220525165413",
+    "script": "https://github.com/tin0521/ff/raw/main/jawhead_space.zip",
+    "tag": "MSC 2018"
+  },
+  {
+    "name": "Jawhead",
+    "skin_name": "Candy Bear",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero547-portrait.png/revision/latest?cb=20220525165418",
+    "script": "https://github.com/tin0521/ff/raw/main/jawhead_candybear.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Jawhead",
+    "skin_name": "Proto Guardian",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
+    "script": "https://github.com/tin0521/ff/raw/main/jawhead_allstar.zip",
+    "tag": "All Star"
+  },
+  {
+    "name": "Jawhead",
+    "skin_name": "Victory Loader",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_134034133.png",
+    "script": "https://github.com/tin0521/ff/raw/main/jawhead_s33.zip",
+    "tag": "S33"
+  }
+]

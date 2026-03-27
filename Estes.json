@@ -1,1 +1,58 @@
-{"name": "Estes"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20240501095928",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Blacklist International",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb=20220804115327",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_blacklist.zip",
+    "tag": "Champion"
+  },
+  {
+    "skin_name": "Rattan Dragon",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero346-portrait.png/revision/latest?cb=20220525165046",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_dragontimer.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "skin_name": "Galaxy Dominator",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero343-portrait.png/revision/latest?cb=20230212041009",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_galaxy.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "SPARKLE Estes",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest?cb=20240416015757",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_sparkle.zip",
+    "tag": "Sparkle"
+  },
+  {
+    "skin_name": "Crow Bishop",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero345-portrait.png/revision/latest?cb=20220525165045",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_crowbishop.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Moon Elf King (Chinese Version)",
+    "name": "Estes",
+    "image": "https://alicdn.web.moontonapp.com/web/svnres/file/mlbb-cn/website-test/100_29d42ae1df50cb2ef4a3e4c23557bdec.jpg",
+    "script": "https://github.com/injector-origin/mobile-legends-script/raw/main/temp/zh-341.zip",
+    "tag": "Chinese Version"
+  },
+  {
+    "skin_name": "Arcane Magistrate",
+    "name": "Estes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero348-portrait.png/revision/latest?cb=20241123130839",
+    "script": "https://github.com/tin0521/supp/raw/main/estes_arcane.zip",
+    "tag": "Special"
+  }
+]

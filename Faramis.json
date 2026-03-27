@@ -1,0 +1,30 @@
+[
+  {
+    "skin_name": "Backup",
+    "name": "Faramis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero761-portrait.png/revision/latest?cb=20240501101543",
+    "script": "https://github.com/tin0521/supp/raw/main/faramis_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Royal Magus",
+    "name": "Faramis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero763-portrait.png/revision/latest?cb=20220908164012",
+    "script": "https://github.com/tin0521/supp/raw/main/faramis_royal.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Infernal Magister",
+    "name": "Faramis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero765-portrait.png/revision/latest?cb=20240114134522",
+    "script": "https://github.com/tin0521/supp/raw/main/faramis_mythic.zip",
+    "tag": "Mythic"
+  },
+  {
+    "skin_name": "Summer Sparks",
+    "name": "Faramis",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
+    "script": "https://github.com/tin0521/supp/raw/main/faramis_summer.zip",
+    "tag": "Summer"
+  }
+]

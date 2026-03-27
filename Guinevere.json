@@ -1,1 +1,79 @@
-{"name": "Guinevere"}
+[
+  {
+    "name": "Guinevere",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cb=20240121140113",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Elegant Butterfly",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest?cb=20240114135706",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_divinebutterfly.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Lady Crane",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest?cb=20220525165916",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_ladycrane.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Athena Asamiya",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cb=20220525165906",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_kof.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Psion of Tomorrow",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Amethyst Dance",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest?cb=20220525165913",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20special%20amet.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Sakura Wishes",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest?cb=20220525165920",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/guin%20special%20sakura.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Lotus",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest?cb=20220525165909",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_lotus.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Summer Breeze",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest?cb=20220525165923",
+    "script": "https://github.com/tin0521/ff/raw/main/guinevere_summer.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Ms. Violet (Chinese Version)",
+    "image": "https://alicdn.web.moontonapp.com/web/svnres/file/mlbb-cn/website-test/100_c1d6a2f02b9318e745cad8b0b7f0506e.jpg",
+    "script": "https://github.com/injector-origin/random-files/raw/main/801-zh.zip",
+    "tag": "Chinese Version"
+  },
+  {
+    "name": "Guinevere",
+    "skin_name": "Twilight Star",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/guinevere.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/guine_twilightstar.zip",
+    "tag": "Aspirants"
+  }
+]

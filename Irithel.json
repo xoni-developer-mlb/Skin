@@ -1,1 +1,51 @@
-{"name": "Irithel"}
+[
+  {
+    "name": "Irithel",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero431-portrait.png/revision/latest?cb=20220525165209",
+    "script": "https://github.com/zetsuya05/january/raw/main/irithel_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Irithel",
+    "skin_name": "Sagittarius",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero435-portrait.png/revision/latest?cb=20240114122258",
+    "script": "https://github.com/tin0521/mm/raw/main/irithel_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Irithel",
+    "skin_name": "Monster SP Rider",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero437-portrait.png/revision/latest?cb=20230917045310",
+    "script": "https://github.com/tin0521/mm/raw/main/irithel_ducati.zip",
+    "tag": "Ducati"
+  },
+  {
+    "name": "Irithel",
+    "skin_name": "Checkered Knight",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero438-portrait.png/revision/latest?cb=20241201052814",
+    "script": "https://github.com/tin0521/mm/raw/main/irithel_checkered.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Irithel",
+    "skin_name": "Astral Wanderer",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_200001462.png",
+    "script": "https://github.com/zetsuya05/january/raw/main/irithel_luckybox-revamped.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Irithel",
+    "skin_name": "Nightarrow",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_200001486.png",
+    "script": "https://github.com/tin0521/mm/raw/main/irithel_nightarrow.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Irithel",
+    "skin_name": "Hellfire",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_200001498.png",
+    "script": "https://github.com/tin0521/mm/raw/main/irithel_hellfire.zip",
+    "tag": "Epic"
+  }
+]

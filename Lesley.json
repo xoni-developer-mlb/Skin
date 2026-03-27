@@ -1,1 +1,79 @@
-{"name": "Lesley"}
+[
+  {
+    "name": "Lesley",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero531-portrait.png/revision/latest?cb=20240623134201",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Hawk-eyed Sniper",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105310-portrait.png/revision/latest?cb=20221103134621",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_hawk.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Deadeye Spectre",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero105311-portrait.png/revision/latest?cb=20240130065924",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_aspirant.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Falcon Mistress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero539-portrait.png/revision/latest?cb=20220525165408",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Stellaris Ghost",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero535-portrait.png/revision/latest?cb=20230805043856",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_stellaris.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Angelic Agent",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero537-portrait.png/revision/latest?cb=20220525165406",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_angelic.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Cheergunner",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero534-portrait.png/revision/latest?cb=20220525165402",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_cheergunner.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Lethal Lady",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero538-portrait.png/revision/latest?cb=20220525165407",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_lethal.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Dangerous Love",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero536-portrait.png/revision/latest?cb=20220915121813",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_valentines.zip",
+    "tag": "Valentine"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Duchess of Tides",
+    "image": "https://pbs.twimg.com/media/Glbns_1bwAQydIU?format=jpg&name=medium",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_covenant.zip",
+    "tag": "Covenant"
+  },
+  {
+    "name": "Lesley",
+    "skin_name": "Meowkin Hunter",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/cutout-1756032211.png",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/lesley_mysticmeow.zip",
+    "tag": "Mystic Meow"
+  }
+]

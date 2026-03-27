@@ -1,0 +1,51 @@
+[
+  {
+    "name": "X.Borg",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest?cb=20230826055048",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "X.Borg",
+    "skin_name": "Tesla Maniac",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest?cb=20220525170000",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_11.11.zip",
+    "tag": "11.11"
+  },
+  {
+    "name": "X.Borg",
+    "skin_name": "Bumblebee",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest?cb=20220525170001",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_transformer.zip",
+    "tag": "Transformers"
+  },
+  {
+    "name": "X.Borg",
+    "skin_name": "Graffiti Fashion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest?cb=20220525165959",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_graffiti.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "X.Borg",
+    "skin_name": "Invoker's Flame",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/xborg%20port.png",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_metrozero.zip",
+    "tag": "Metrozero"
+  },
+  {
+    "name": "X.Borg",
+    "skin_name": "Pecados Rioter",
+    "image": "https://github.com/gg0521/March/raw/refs/heads/main/img_20250325_065936643.png",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_mcgg.zip",
+    "tag": "MCGG"
+  },
+  {
+    "name": "X.Borg",
+    "skin_name": "Graffiti Fashion",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_154235172.png",
+    "script": "https://github.com/tin0521/ff/raw/main/xborg_graffiti.zip",
+    "tag": "Starlight"
+  }
+]

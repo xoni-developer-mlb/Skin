@@ -1,1 +1,16 @@
-{"name": "Khaleed"}
+[
+  {
+    "name": "Khaleed",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero981-portrait.png/revision/latest?cb=20220525170258",
+    "script": "https://github.com/tin0521/ff/raw/main/khaleed_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Khaleed",
+    "skin_name": "Wave Strider",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero984-portrait.png/revision/latest?cb=20240507150206",
+    "script": "https://github.com/tin0521/ff/raw/main/khaleed_wave.zip",
+    "tag": "Epic"
+  }
+]

@@ -1,1 +1,65 @@
-{"name": "Karrie"}
+[
+  {
+    "name": "Karrie",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero401-portrait.png/revision/latest?cb=20240121135955",
+    "script": "https://github.com/tin0521/mm/raw/main/karrie_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Karrie",
+    "skin_name": "Neon Lightwheel",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest?cb=20220525165150",
+    "script": "https://github.com/tin0521/mm/raw/main/karrie_neon.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "name": "Karrie",
+    "skin_name": "Gill-Girl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero407-portrait.png/revision/latest?cb=20220525165149",
+    "script": "https://github.com/tin0521/mm/raw/main/karrie_girlgrill.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Karrie",
+    "skin_name": "Hawkwatch",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero406-portrait.png/revision/latest?cb=20240124032357",
+    "script": "https://github.com/tin0521/mm/raw/main/karrie_hawkwatch.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Karrie",
+    "skin_name": "Ice Talon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero104010-portrait.png/revision/latest?cb=20230805043957",
+    "script": "https://github.com/tin0521/mm/raw/main/karrie_icetalon.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Karrie",
+    "skin_name": "Jester",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero405-portrait.png/revision/latest?cb=20220525165147",
+    "script": "https://github.com/tin0521/mm/raw/main/karrie_halloween.zip",
+    "tag": "Halloween"
+  },
+  {
+    "name": "Karrie",
+    "skin_name": "Blade of Naraka",
+    "image": "https://i.pinimg.com/736x/41/2b/ba/412bba20fbd34524edf08e50bbcd4663.jpg",
+    "script": "https://github.com/tin0521/mm/raw/main/karrie_kishin.zip",
+    "tag": "Kishin Densetsu"
+  },
+  {
+    "name": "Karrie",
+    "skin_name": "Dragon Queen",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_190849308.png",
+    "script": "https://github.com/tin0521/mm/raw/main/karrie_dragonqueen.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Karrie",
+    "skin_name": "Wheel of Justice",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_190849233.png",
+    "script": "https://github.com/tin0521/mm/raw/main/karrie_whellofjustice.zip",
+    "tag": "Elite"
+  }
+]

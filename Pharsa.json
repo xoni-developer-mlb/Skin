@@ -1,1 +1,51 @@
-{"name": "Pharsa"}
+[
+  {
+    "name": "Pharsa",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero521-portrait.png/revision/latest?cb=20240122082105",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Empress Phoenix",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest?cb=20220525165345",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Neon Shingetsu",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest?cb=20230917045337",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_neon.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Hierophant",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest?cb=20220525165348",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_msc.zip",
+    "tag": "MSC 2022"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Samba Muse",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero527-portrait.png/revision/latest?cb=20220525165346",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_samba.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Peony Bloom",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero528-portrait.png/revision/latest?cb=20220525165347",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_peony.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Pharsa",
+    "skin_name": "Neobeast Pharsa",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+    "script": "https://github.com/tin0521/mge/raw/main/pharsa_neobeast.zip",
+    "tag": "Neobeast"
+  }
+]

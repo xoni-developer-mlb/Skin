@@ -1,1 +1,16 @@
-{"name": "Phoveus"}
+[
+  {
+    "name": "Phoveus",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143231",
+    "script": "https://github.com/tin0521/ff/raw/main/phoveus_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Phoveus",
+    "skin_name": "Matrix Maverick",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1064-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101449",
+    "script": "https://github.com/tin0521/ff/raw/main/phoveus_starlight.zip",
+    "tag": "Starlight"
+  }
+]

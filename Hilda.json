@@ -1,1 +1,30 @@
-{"name": "Hilda"}
+[
+  {
+    "name": "Hilda",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero351-portrait.png/revision/latest?cb=20240112140916",
+    "script": "https://github.com/tin0521/tnk/raw/main/hilda_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Hilda",
+    "skin_name": "Sacred Guard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero354-portrait.png/revision/latest?cb=20220525165053",
+    "script": "https://github.com/tin0521/tnk/raw/main/hilda_sacred.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Hilda",
+    "skin_name": "Bass Craze",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest?cb=20220525165055",
+    "script": "https://github.com/tin0521/tnk/raw/main/hilda_bass.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Hilda",
+    "skin_name": "Aries",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest?cb=20230317100645",
+    "script": "https://github.com/tin0521/tnk/raw/main/hilda_zodiac.zip",
+    "tag": "Zodiac"
+  }
+]

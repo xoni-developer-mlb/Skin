@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Freya",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png/revision/latest?cb=20231230160944",
+    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/freya%20backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Freya",
+    "skin_name": "Galactic Vanquisher",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb=20240114101726",
+    "script": "https://github.com/tin0521/ff/raw/main/freya_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Freya",
+    "skin_name": "Beach Sweetheart",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero224-portrait.png/revision/latest?cb=20220525164803",
+    "script": "https://github.com/tin0521/ff/raw/main/freya_sweetheart.zip",
+    "tag": "Summer"
+  },
+  {
+    "name": "Freya",
+    "skin_name": "War Angel",
+    "image": "https://pbs.twimg.com/media/GS7qtwrbMAEtt_G?format=jpg&name=large",
+    "script": "https://github.com/tin0521/ff/raw/main/freya_warangel.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Freya",
+    "skin_name": "Christmas Carnival",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero227-portrait.png/revision/latest?cb=20220525164806",
+    "script": "https://github.com/tin0521/ff/raw/main/freya_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "name": "Freya",
+    "skin_name": "Raven Shogun",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_183634266.png",
+    "script": "https://github.com/tin0521/ff/raw/main/freya_raven.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Freya",
+    "skin_name": "S.A.B.E.R Manhunter",
+    "image": "https://github.com/tin0521/asimg/raw/refs/heads/main/img_20241014_183634252.png",
+    "script": "https://github.com/tin0521/ff/raw/main/freya_saber.zip",
+    "tag": "S.A.B.E.R"
+  }
+]

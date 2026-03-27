@@ -1,1 +1,58 @@
-{"name": "Grock"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Grock",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero441-portrait.png/revision/latest?cb=20240501074233",
+    "script": "https://github.com/tin0521/tnk/raw/main/grock_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Codename: Rhino",
+    "name": "Grock",
+    "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_123451.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/grock_collector.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Codename: Rhino",
+    "name": "Grock",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest?cb=20220525165223",
+    "script": "https://github.com/tin0521/tnk/raw/main/grock_codename.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Iceland Golem",
+    "name": "Grock",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero445-portrait.png/revision/latest?cb=20220525165223",
+    "script": "https://github.com/tin0521/tnk/raw/main/grock_iceland.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "V.E.N.O.M. Monitor Lizard",
+    "name": "Grock",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero444-portrait.png/revision/latest?cb=20220525165222",
+    "script": "https://github.com/tin0521/tnk/raw/main/grock_venom.zip",
+    "tag": "V.E.N.O.M"
+  },
+  {
+    "skin_name": "Wasteland Psycho",
+    "name": "Grock",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_193625207.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/grock_wasteland.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Castle Guard",
+    "name": "Grock",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_193625281.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/grock_castle.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Ancient Totem",
+    "name": "Grock",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_193625232.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/grock_s24.zip",
+    "tag": "S24"
+  }
+]

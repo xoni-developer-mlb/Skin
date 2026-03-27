@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Masha",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
+    "script": "https://github.com/tin0521/ff/raw/main/masha_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Masha",
+    "skin_name": "Mai Shiranui",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest?cb=20240430024127",
+    "script": "https://github.com/tin0521/ff/raw/main/masha_kof.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Masha",
+    "skin_name": "Dragon Armor",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero884-portrait.png/revision/latest?cb=20220525170110",
+    "script": "https://github.com/tin0521/ff/raw/main/masha_dragon.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "name": "Masha",
+    "skin_name": "Rogue Talon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero886-portrait.png/revision/latest?cb=20221103134619",
+    "script": "https://github.com/tin0521/ff/raw/main/masha_roque.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Masha",
+    "skin_name": "Combat Maiden",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_161343024.png",
+    "script": "https://github.com/tin0521/ff/raw/main/masha_combat.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Masha",
+    "skin_name": "Spirited Gauntlet",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_161342987.png",
+    "script": "https://github.com/tin0521/ff/raw/main/masha_s23.zip",
+    "tag": "S23"
+  }
+]

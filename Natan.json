@@ -1,1 +1,44 @@
-{"name": "Natan"}
+[
+  {
+    "name": "Natan",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1071-portrait.png/revision/latest?cb=20220525171604",
+    "script": "https://github.com/tin0521/mm/raw/main/natan_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Natan",
+    "skin_name": "Total Lord",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest?cb=20230212035443",
+    "script": "https://github.com/tin0521/mm/raw/main/natan_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Natan",
+    "skin_name": "Chaos Hunter",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest?cb=20220525170444",
+    "script": "https://github.com/tin0521/mm/raw/main/natan_chaos.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Natan",
+    "skin_name": "Captain Chrono",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1074-portrait.png/revision/latest?cb=20220628180007",
+    "script": "https://github.com/tin0521/mm/raw/main/natan_captain.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Natan",
+    "skin_name": "Temporal Vortex",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1076-portrait.png/revision/latest?cb=20240114153250",
+    "script": "https://github.com/tin0521/mm/raw/main/natan_temporal.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Natan",
+    "skin_name": "Archon of Knowledge",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1077-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071908",
+    "script": "https://github.com/tin0521/mm/raw/main/natan_msc.zip",
+    "tag": "MSC 2025"
+  }
+]

@@ -1,1 +1,58 @@
-{"name": "Nana"}
+[
+  {
+    "name": "Nana",
+    "skin_name": "Sweet Leonin",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20240602234727",
+    "script": "https://github.com/tin0521/supp/raw/main/nana_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Nana",
+    "skin_name": "Mistbender Nana",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png/revision/latest?cb=20240114100424",
+    "script": "https://github.com/tin0521/supp/raw/main/nana_mistbender.zip",
+    "tag": "Mistbender"
+  },
+  {
+    "name": "Nana",
+    "skin_name": "Wind Fairy",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest?cb=20220525164407",
+    "script": "https://github.com/tin0521/supp/raw/main/nana_wind.zip",
+    "tag": "MPL"
+  },
+  {
+    "name": "Nana",
+    "skin_name": "Aqua Pura",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cb=20220525164410",
+    "script": "https://github.com/tin0521/supp/raw/main/nana_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Nana",
+    "skin_name": "Mecha Baby",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero056-portrait.png/revision/latest?cb=20220525164408",
+    "script": "https://github.com/tin0521/supp/raw/main/nana_mecha.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Nana",
+    "skin_name": "Sundress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero057-portrait.png/revision/latest?cb=20220525164409",
+    "script": "https://github.com/tin0521/supp/raw/main/nana_summer.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Nana",
+    "skin_name": "Cyclone Clash",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cb=20220628175952",
+    "script": "https://github.com/tin0521/supp/raw/main/nana_cyclone.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Nana",
+    "skin_name": "Sweet Leonin (Chinese Version)",
+    "image": "https://alicdn.web.moontonapp.com/web/svnres/file/mlbb-cn/website-test/100_86ffc74e7d40644f6662f88ffbac79f4.jpg",
+    "script": "https://github.com/injector-origin/random-files/raw/main/zh-051.zip",
+    "tag": "Chinese Version"
+  }
+]

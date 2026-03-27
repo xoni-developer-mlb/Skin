@@ -1,1 +1,44 @@
-{"name": "Yin"}
+[
+  {
+    "name": "Yin",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest?cb=20240122084641",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/yin_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Yin",
+    "skin_name": "Eren",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest?cb=20240129101521",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/yin_eren.zip",
+    "tag": "Attack on Titan"
+  },
+  {
+    "name": "Yin",
+    "skin_name": "M-World Yin",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest?cb=20220525170605",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/yin_mworld.zip",
+    "tag": "MWorld"
+  },
+  {
+    "name": "Yin",
+    "skin_name": "Eternal Guardian",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest?cb=20230623125844",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/yin_infernal.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Yin",
+    "skin_name": "Yuji Itadori",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest?cb=20230212035447",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/yin_jujutsu.zip",
+    "tag": "Jujutsu Kaisen"
+  },
+  {
+    "name": "Yin",
+    "skin_name": "Dauntless Battlelord",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251005_174434255.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yin_collector.zip",
+    "tag": "Collector"
+  }
+]

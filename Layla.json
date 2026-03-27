@@ -1,1 +1,72 @@
-{"name": "Layla"}
+[
+  {
+    "name": "Layla",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Layla",
+    "skin_name": "Miss Hikari",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest?cb=20220525164729",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_aspirant.zip",
+    "tag": "Aspirants"
+  },
+  {
+    "name": "Layla",
+    "skin_name": "Paranormal Operative",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest?cb=20240619172008",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Layla",
+    "skin_name": "Twilight Waltz",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero101810-portrait.png/revision/latest?cb=20230917045334",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_twilightstarlight.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Layla",
+    "skin_name": "Blue Spectre",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero185-portrait.png/revision/latest?cb=20220525164722",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_bluespectre.zip",
+    "tag": "Globe LAN Tournament"
+  },
+  {
+    "name": "Layla",
+    "skin_name": "Blazing Gun",
+    "image": "https://i.imgur.com/X91VWEW.jpeg",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_blazing.zip",
+    "tag": "Blazing Bounties"
+  },
+  {
+    "name": "Layla",
+    "skin_name": "The Beacon",
+    "image": "https://github.com/tin0521/January_2026/blob/main/layla%20legend.jpg?raw=true",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/layla_def_legend.zip",
+    "tag": "Legend"
+  },
+  {
+    "name": "Layla",
+    "skin_name": "S.A.B.E.R Breacher",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_183220445.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_saber.zip",
+    "tag": "S.A.B.E.R"
+  },
+  {
+    "name": "Layla",
+    "skin_name": "Bunny Babe",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_183220489.png",
+    "script": "https://github.com/tin0521/mm/raw/main/layla_bunny.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Layla",
+    "skin_name": "Cannon and Roses",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_183220478.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/layla_valentines.zip",
+    "tag": "Valentine"
+  }
+]

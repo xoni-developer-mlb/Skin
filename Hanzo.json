@@ -1,0 +1,30 @@
+[
+  {
+    "skin_name": "Backup",
+    "name": "Hanzo",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero691-portrait.png/revision/latest?cb=20240112141926",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hanzo_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Hanzo",
+    "skin_name": "Undead King",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero693-portrait.png/revision/latest?cb=20220525165726",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hanzo_undeadking.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Hanzo",
+    "skin_name": "Insidous Tutor",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero694-portrait.png/revision/latest?cb=20220525165727",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hanzo_insidious.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Hanzo",
+    "skin_name": "Soulfire Netherlord",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hanzo_%28Soulfire_Netherlord%29.jpg/revision/latest?cb=20250411100227",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hanzo_collector.zip",
+    "tag": "Collector"
+  }
+]

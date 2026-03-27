@@ -1,1 +1,44 @@
-{"name": "Yu Zhong"}
+[
+  {
+    "name": "Yu Zhong",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cb=20240621033746",
+    "script": "https://github.com/tin0521/ff/raw/main/yuzhong_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Yu Zhong",
+    "skin_name": "Blood Serpent",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest?cb=20220525170239",
+    "script": "https://github.com/tin0521/ff/raw/main/yuzhong_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Yu Zhong",
+    "skin_name": "Cosmic Dragon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest?cb=20240114145030",
+    "script": "https://github.com/tin0521/ff/raw/main/yuzhong_prime.zip",
+    "tag": "Prime"
+  },
+  {
+    "name": "Yu Zhong",
+    "skin_name": "Exorcist Yu Zhong",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest?cb=20220915122237",
+    "script": "https://github.com/tin0521/ff/raw/main/yuzhong_exorcist.zip",
+    "tag": "Exorcists"
+  },
+  {
+    "name": "Yu Zhong",
+    "skin_name": "Dragon's Shade",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest?cb=20240114145027",
+    "script": "https://github.com/tin0521/ff/raw/main/yuzhong_m4.zip",
+    "tag": "M5"
+  },
+  {
+    "name": "Yu Zhong",
+    "skin_name": "Biohazard",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_190759928.png",
+    "script": "https://github.com/tin0521/ff/raw/main/yuzhong_biohazard.zip",
+    "tag": "Starlight"
+  }
+]

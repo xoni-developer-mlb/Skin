@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Sun",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero271-portrait.png/revision/latest?cb=20240605114146",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/sun_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Sun",
+    "skin_name": "Wicked Flames",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
+    "script": "https://github.com/tin0521/ff/raw/main/sun_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Sun",
+    "skin_name": "Spring Blessings",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest?cb=20220525164910",
+    "script": "https://github.com/tin0521/ff/raw/main/sun_spring.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "name": "Sun",
+    "skin_name": "Simian Curse",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest?cb=20220525164905",
+    "script": "https://github.com/tin0521/ff/raw/main/sun_simian.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Sun",
+    "skin_name": "Queler of Chaos",
+    "image": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/sun.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/sun_annualstar.zip",
+    "tag": "Annual Starlight"
+  },
+  {
+    "name": "Sun",
+    "skin_name": "Rock Star",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest?cb=20240121135350",
+    "script": "https://github.com/tin0521/ff/raw/main/sun_rockstar.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Sun",
+    "skin_name": "Street Legend",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241015_132420851.png",
+    "script": "https://github.com/tin0521/ff/raw/main/sun_street.zip",
+    "tag": "Special"
+  }
+]

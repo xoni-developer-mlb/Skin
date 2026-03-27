@@ -1,1 +1,51 @@
-{"name": "Khufra"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Khufra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest?cb=20240114021830",
+    "script": "https://github.com/tin0521/tnk/raw/main/khufra_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Volcanic Overlord",
+    "name": "Khufra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero785-portrait.png/revision/latest?cb=20220525165828",
+    "script": "https://github.com/tin0521/tnk/raw/main/khufra_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "skin_name": "Iron Hook",
+    "name": "Khufra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero787-portrait.png/revision/latest?cb=20230316133740",
+    "script": "https://github.com/tin0521/tnk/raw/main/khufra_ironhook.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Apophis",
+    "name": "Khufra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero783-portrait.png/revision/latest?cb=20220525165826",
+    "script": "https://github.com/tin0521/tnk/raw/main/khufra_apophis.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Dreadful Clown",
+    "name": "Khufra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero786-portrait.png/revision/latest?cb=20220525165829",
+    "script": "https://github.com/tin0521/tnk/raw/main/khufra_dreadful.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Gentleman Thief",
+    "name": "Khufra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Hero784-portrait.png/revision/latest?cb=20220525165827",
+    "script": "https://github.com/tin0521/tnk/raw/main/khufra_gentleman.zip",
+    "tag": "Valentine"
+  },
+  {
+    "skin_name": "Cursed Scroll",
+    "name": "Khufra",
+    "image": "https://pbs.twimg.com/media/GWtKK3QXgAAu1HF?format=jpg&name=large",
+    "script": "https://github.com/tin0521/tnk/raw/main/khufra_cursed.zip",
+    "tag": "Epic"
+  }
+]

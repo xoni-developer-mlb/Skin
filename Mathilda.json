@@ -1,1 +1,30 @@
-{"name": "Mathilda"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Mathilda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1021-portrait.png/revision/latest?cb=20220525171504",
+    "script": "https://github.com/tin0521/supp/raw/refs/heads/main/mathilda_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Dream Groove",
+    "name": "Mathilda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero1024-portrait.png/revision/latest?cb=20220525170347",
+    "script": "https://github.com/tin0521/supp/raw/refs/heads/main/mathilda_mpl.zip",
+    "tag": "MPL"
+  },
+  {
+    "skin_name": "Floral Crown",
+    "name": "Mathilda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero1023-portrait.png/revision/latest?cb=20220525170346",
+    "script": "https://github.com/tin0521/supp/raw/refs/heads/main/mathilda_floral.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Dreambound Pixie",
+    "name": "Mathilda",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero1026-portrait.png/revision/latest?cb=20250109154335",
+    "script": "https://github.com/tin0521/supp/raw/refs/heads/main/mathilda_dreambound.zip",
+    "tag": "Epic"
+  }
+]

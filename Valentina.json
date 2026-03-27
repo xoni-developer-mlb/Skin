@@ -1,1 +1,44 @@
-{"name": "Valentina"}
+[
+  {
+    "name": "Valentina",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1101-portrait.png/revision/latest?cb=20220525171648",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Celestial Judicator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest?cb=20240114153957",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Dark Nexus",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest?cb=20240619180532",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_msc.zip",
+    "tag": "MSC"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Cyber Agent",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest?cb=20230212035444",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_cyber.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Grand Gala",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/valentina.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/valentina_gala.zip",
+    "tag": "S38"
+  },
+  {
+    "name": "Valentina",
+    "skin_name": "Archmagister",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241025_190746867.png",
+    "script": "https://github.com/tin0521/mge/raw/main/valentina_archmagister.zip",
+    "tag": "Elite"
+  }
+]

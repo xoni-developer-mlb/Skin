@@ -1,1 +1,58 @@
-{"name": "Kimmy"}
+[
+  {
+    "name": "Kimmy",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero711-portrait.png/revision/latest?cb=20240501071451",
+    "script": "https://github.com/zetsuya05/january/raw/main/kimmy_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Kimmy",
+    "skin_name": "Frost Wing",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
+    "script": "https://github.com/tin0521/mm/raw/main/kimmy_frostwing.zip",
+    "tag": "Dragon Tamer"
+  },
+  {
+    "name": "Kimmy",
+    "skin_name": "Astrocat",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest?cb=20220525165741",
+    "script": "https://github.com/tin0521/mm/raw/main/kimmy_astrocat.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Kimmy",
+    "skin_name": "First Order Jet Trooper",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest?cb=20220628180011",
+    "script": "https://github.com/tin0521/mm/raw/main/kimmy_starwars.zip",
+    "tag": "Star Wars"
+  },
+  {
+    "name": "Kimmy",
+    "skin_name": "Charge Leader",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_202640050.png",
+    "script": "https://github.com/tin0521/mm/raw/main/kimmy_charge.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Kimmy",
+    "skin_name": "Bio frontier",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_202640079.png",
+    "script": "https://github.com/tin0521/marksman/raw/main/kimmy_biostar.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Kimmy",
+    "skin_name": "High Seas Cadet",
+    "image": "https://github.com/tin0521/june/raw/refs/heads/main/img_20250621_171242098.png",
+    "script": "https://github.com/tin0521/mm/raw/main/kimmy_highseas.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Kimmy",
+    "skin_name": "Starbound Sentry",
+    "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+    "script": "https://github.com/zetsuya05/january/raw/main/kimmy_collector.zip",
+    "tag": "Collector"
+  }
+]

@@ -1,1 +1,44 @@
-{"name": "Tigreal"}
+[
+  {
+    "name": "Tigreal",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero061-portrait.png/revision/latest?cb=20240605132742",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/tigrel_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Tigreal",
+    "skin_name": "Lightborn - Defender",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest?cb=20220525164423",
+    "script": "https://github.com/tin0521/tnk/raw/main/tigrel_lightborn.zip",
+    "tag": "Lightborn"
+  },
+  {
+    "name": "Tigreal",
+    "skin_name": "Gold Baron",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest?cb=20220525164424",
+    "script": "https://github.com/tin0521/tnk/raw/main/tigrel_goldbaron.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Tigreal",
+    "skin_name": "Galactic Marshal",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero068-portrait.png/revision/latest?cb=20220802033731",
+    "script": "https://github.com/tin0521/tnk/raw/main/tigrel_galactic.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Tigreal",
+    "skin_name": "Pasha of Justice",
+    "image": "https://pbs.twimg.com/media/GWtKq4kakAAj86q?format=jpg&name=large",
+    "script": "https://github.com/tin0521/tnk/raw/main/tigrel_pasha.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Tigreal",
+    "skin_name": "Celestial General",
+    "image": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/tigcollector.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/tigrel_collector.zip",
+    "tag": "Collector"
+  }
+]

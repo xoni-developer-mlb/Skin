@@ -1,1 +1,37 @@
-{"name": "Hylos"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Hylos",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero491-portrait.png/revision/latest?cb=20220525165306",
+    "script": "https://github.com/tin0521/tnk/raw/main/hylos_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Abyssal Shaman",
+    "name": "Hylos",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero492-portrait.png/revision/latest?cb=20220525165314",
+    "script": "https://github.com/tin0521/tnk/raw/main/hylos_abyssal.zip",
+    "tag": "Elite"
+  },
+  {
+    "skin_name": "Iron Steed",
+    "name": "Hylos",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero495-portrait.png/revision/latest?cb=20220525165317",
+    "script": "https://github.com/tin0521/tnk/raw/main/hylos_ironsteed.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Phantom Seer",
+    "name": "Hylos",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero493-portrait.png/revision/latest?cb=20220525165315",
+    "script": "https://github.com/tin0521/tnk/raw/main/hylos_phantom.zip",
+    "tag": "Special"
+  },
+  {
+    "skin_name": "Bloodhoof Marauder",
+    "name": "Hylos",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241019_143946198.png",
+    "script": "https://github.com/tin0521/tnk/raw/main/hylos_bloodhoof.zip",
+    "tag": "Elite"
+  }
+]

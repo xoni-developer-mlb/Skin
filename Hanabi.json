@@ -1,1 +1,58 @@
-{"name": "Hanabi"}
+[
+  {
+    "name": "Hanabi",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero601-portrait.png/revision/latest?cb=20221217032835",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/hanabi_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Hanabi",
+    "skin_name": "Moonlit Ninja",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero609-portrait.png/revision/latest?cb=20230316133735",
+    "script": "https://github.com/tin0521/mm/raw/main/hanabi_allstar.zip",
+    "tag": "Allstars"
+  },
+  {
+    "name": "Hanabi",
+    "skin_name": "V.E.N.O.M. Nephila",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero604-portrait.png/revision/latest?cb=20220525165524",
+    "script": "https://github.com/tin0521/mm/raw/main/hanabi_venom.zip",
+    "tag": "V.E.N.O.M"
+  },
+  {
+    "name": "Hanabi",
+    "skin_name": "Riverland Phoenix",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero608-portrait.png/revision/latest?cb=20220525165528",
+    "script": "https://github.com/tin0521/mm/raw/main/hanabi_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Hanabi",
+    "skin_name": "Rakshesha",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero606-portrait.png/revision/latest?cb=20220525165526",
+    "script": "https://github.com/tin0521/mm/raw/main/hanabi_rakshesha.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Hanabi",
+    "skin_name": "Vessel of Rage",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero106010-portrait.png/revision/latest?cb=20240619172748",
+    "script": "https://github.com/tin0521/mm/raw/main/hanabi_soulvessel.zip",
+    "tag": "Soul Vessel"
+  },
+  {
+    "name": "Hanabi",
+    "skin_name": "Neon Glamour",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/hanabiStarlight%20portrait.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/hanabi_star.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Hanabi",
+    "skin_name": "Fiery Moth",
+    "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_201027926.png",
+    "script": "https://github.com/tin0521/mm/raw/main/hanabi_fierymoth.zip",
+    "tag": "Starlight"
+  }
+]

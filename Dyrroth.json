@@ -1,1 +1,44 @@
-{"name": "Dyrroth"}
+[
+  {
+    "name": "Dyrroth",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20240111124052",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Dyrroth",
+    "skin_name": "Naraka Flame",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest?cb=20230615180223",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_narakaflame.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Dyrroth",
+    "skin_name": "Orochi Chris",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_kof.zip",
+    "tag": "King of Fighters"
+  },
+  {
+    "name": "Dyrroth",
+    "skin_name": "Ruins Scavenger",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_ruinsscavenger.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Dyrroth",
+    "skin_name": "V.E.N.O.M. Cobra",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20220525170036",
+    "script": "https://github.com/tin0521/ff/raw/main/dyroth_venom.zip",
+    "tag": "V.E.N.O.M"
+  },
+  {
+    "name": "Dyrroth",
+    "skin_name": "Gon",
+    "image": "https://i.imgur.com/aSyt8Uk.png",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/dyroth_gon.zip",
+    "tag": "HxH"
+  }
+]

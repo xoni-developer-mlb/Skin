@@ -1,1 +1,37 @@
-{"name": "Kaja"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Kaja",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Hero621-portrait.png/revision/latest?cb=20220525165548",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Inferno Taskmaster",
+    "name": "Kaja",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest?cb=20230917045317",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_inferno.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Skyblocker",
+    "name": "Kaja",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero625-portrait.png/revision/latest?cb=20220525165553",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_skyblocker.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Kaminari",
+    "name": "Kaja",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_175750346.png",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_kaminari.zip",
+    "tag": "Starlight"
+  },
+  {
+    "skin_name": "Crow Magician",
+    "name": "Kaja",
+    "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241016_175750307.png",
+    "script": "https://github.com/tin0521/ff/raw/main/kaja_s20.zip",
+    "tag": "S20"
+  }
+]

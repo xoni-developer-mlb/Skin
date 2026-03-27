@@ -1,1 +1,30 @@
-{"name": "Minsitthar"}
+[
+  {
+    "name": "Minsitthar",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero741-portrait.png/revision/latest?cb=20230317100559",
+    "script": "https://github.com/tin0521/ff/raw/main/minsithar_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Minsitthar",
+    "skin_name": "Sol Invictus",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20240131092447",
+    "script": "https://github.com/tin0521/ff/raw/main/minsithar_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Minsitthar",
+    "skin_name": "Crimson Lion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero744-portrait.png/revision/latest?cb=20230623125755",
+    "script": "https://github.com/tin0521/ff/raw/main/minsithar_crimson.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Minsitthar",
+    "skin_name": "Golden Marshall",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/minsithat.png",
+    "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/minsi_golden.zip",
+    "tag": "Elite"
+  }
+]

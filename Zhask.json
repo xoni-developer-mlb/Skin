@@ -1,1 +1,37 @@
-{"name": "Zhask"}
+[
+  {
+    "name": "Zhask",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero501-portrait.png/revision/latest?cb=20240112141505",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Zhask",
+    "skin_name": "Cancer",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Zhask",
+    "skin_name": "Bone Flamen",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20220525165326",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_bone.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Zhask",
+    "skin_name": "Extraterrestrial",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero505-portrait.png/revision/latest?cb=20220525165329",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_extraterrestrial.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Zhask",
+    "skin_name": "Death's Shadow",
+    "image": "https://pbs.twimg.com/media/GWtJo2KaUAA377X?format=jpg&name=large",
+    "script": "https://github.com/tin0521/mge/raw/main/zhask_starlight.zip",
+    "tag": "Starlight"
+  }
+]

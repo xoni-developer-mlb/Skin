@@ -1,1 +1,23 @@
-{"name": "Diggie"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Diggie",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero481-portrait.png/revision/latest?cb=20240112141634",
+    "script": "https://github.com/tin0521/supp/raw/main/diggie_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "Fairytaler",
+    "name": "Diggie",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero485-portrait.png/revision/latest?cb=20220525165305",
+    "script": "https://github.com/tin0521/supp/raw/main/diggie_fairytaler.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Constellation",
+    "name": "Diggie",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero483-portrait.png/revision/latest?cb=20220525165303",
+    "script": "https://github.com/tin0521/supp/raw/main/diggie_constellation.zip",
+    "tag": "Special"
+  }
+]

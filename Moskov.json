@@ -1,1 +1,79 @@
-{"name": "Moskov"}
+[
+  {
+    "name": "Moskov",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest?cb=20231110122307",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Doom Incarnate",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest?cb=20220802032157",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_abyss.zip",
+    "tag": "Abyss"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Infernal Wyrmlord",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest?cb=20240416092252",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_AS.zip",
+    "tag": "Allstars"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Decapitator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest?cb=20220525165005",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_decapitator.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Twilight Dragon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest?cb=20220525165004",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_twilight.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Javelin Champion",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest?cb=20220525165001",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_javelin.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Violet Spear",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest?cb=20230316133752",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_violet.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Blood Spear",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero318-portrait.png/revision/latest?cb=20220525165006",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_bloodspear.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Harbinger Of Chaos",
+    "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/moscov%20portrait.png",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Snake Eye Commander",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_185323260.png",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_snakeeye.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Moskov",
+    "skin_name": "Yasha",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241023_185323245.png",
+    "script": "https://github.com/tin0521/neww/raw/main/moscov_s7.zip",
+    "tag": "S7"
+  }
+]

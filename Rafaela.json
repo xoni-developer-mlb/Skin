@@ -1,1 +1,51 @@
-{"name": "Rafaela"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20240605145920",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "skin_name": "S.A.B.E.R. Savior",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero145-portrait.png/revision/latest?cb=20220525164616",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_saber.zip",
+    "tag": "S.A.B.E.R"
+  },
+  {
+    "skin_name": "Angelic Sonata",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest?cb=20220525164620",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_christmas.zip",
+    "tag": "Christmas"
+  },
+  {
+    "skin_name": "Seraphic Selfie",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero148-portrait.png/revision/latest?cb=20230316133649",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_AS.zip",
+    "tag": "Allstars"
+  },
+  {
+    "skin_name": "Biomedic",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero144-portrait.png/revision/latest?cb=20220525164614",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_biomedic.zip",
+    "tag": "MPL"
+  },
+  {
+    "skin_name": "Flower Fairy",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest?cb=20220525164613",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_flower.zip",
+    "tag": "Epic"
+  },
+  {
+    "skin_name": "Bloom of Abundance",
+    "name": "Rafaela",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest?cb=20241201052808",
+    "script": "https://github.com/tin0521/supp/raw/main/rafaela_lunarfest.zip",
+    "tag": "Lunarfest"
+  }
+]

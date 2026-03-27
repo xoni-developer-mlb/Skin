@@ -1,1 +1,51 @@
-{"name": "Luo Yi"}
+[
+  {
+    "name": "Luo Yi",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest?cb=20240501052651",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/louyi_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Elysium Guardian",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero966-portrait.png/revision/latest?cb=20220628180005",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_collector.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Oracle of Sol",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero967-portrait.png/revision/latest?cb=20230514163426",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_oracle.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Dawning Fortune",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero964-portrait.png/revision/latest?cb=20221111133616",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_lunarfest.zip",
+    "tag": "Lunarfest"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Siren Priestess",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero965-portrait.png/revision/latest?cb=20220525170248",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_siren.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Starborne Matron",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142204",
+    "script": "https://github.com/tin0521/mge/raw/main/louyi_create.zip",
+    "tag": "Create"
+  },
+  {
+    "name": "Luo Yi",
+    "skin_name": "Lady Dragon",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251006_194627179.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/louyi_epic.zip",
+    "tag": "Epic"
+  }
+]

@@ -1,1 +1,23 @@
-{"name": "Yve"}
+[
+  {
+    "name": "Yve",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero1011-portrait.png/revision/latest?cb=20240621104939",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yve_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Yve",
+    "skin_name": "Flame Lotus",
+    "image": "https://github.com/tin0521/Oct2025/raw/refs/heads/main/img_20251026_164251247.png",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yve_starlight.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Yve",
+    "skin_name": "Ruin Protectress",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest?cb=20220525170335",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/yve_forest.zip",
+    "tag": "Elite"
+  }
+]

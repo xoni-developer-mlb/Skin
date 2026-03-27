@@ -1,1 +1,37 @@
-{"name": "Helcurt"}
+[
+  {
+    "skin_name": "Backup",
+    "name": "Helcurt",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest?cb=20240502101747",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Helcurt",
+    "skin_name": "Ice Scythe",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb=20220525165334",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_icescythe.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Helcurt",
+    "skin_name": "Evolved Predator",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest?cb=20220525165335",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_evolvepredator.zip",
+    "tag": "Special"
+  },
+  {
+    "name": "Helcurt",
+    "skin_name": "Dream Prowler",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero516-portrait.png/revision/latest?cb=20240604030306",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_dreampowler.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Helcurt",
+    "skin_name": "Scorpio",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest?cb=20230917050311",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/helcurt_scorpio.zip",
+    "tag": "Zodiac"
+  }
+]
