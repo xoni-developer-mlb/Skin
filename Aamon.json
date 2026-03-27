@@ -2,28 +2,22 @@
   {
     "name": "Duke of Shards",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest?cb=20220525171725",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/duke_of_shards.zip"
-  },
-  {
-    "name": "Night's Edge",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest?cb=20220525170510",
-    "tag": "Elite",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/night_edge.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_backup.zip"
   },
   {
     "name": "Noble Crest",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest?cb=20220628175950",
+    "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/aamon.png",
     "tag": "Starlight",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/noble_crest.zip"
+    "dow_url": "https://github.com/tin0521/Sept/raw/refs/heads/main/aamon_collector.zip"
   },
   {
     "name": "Cyber Assassin",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb=20221216103151",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/cyber_assassin.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_cyberassassin.zip"
   },
   {
     "name": "Vessel of Deceit",
     "image": "https://github.com/Hiro161123/Apps/raw/main/Aamon%20soul.png",
-    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/vessel_of_deceit.zip"
+    "dow_url": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_vessel.zip"
   }
 ]
