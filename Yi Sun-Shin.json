@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Lone Destructor",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_astral.zip",
+    "tag": "Collector"
+  },
+  {
+    "name": "Fleet Warden",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest?cb=20220628180302",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_fleet.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Azure Sentry",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest?cb=20220525164954",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_azure.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Apocalypse Agent",
+    "image": "https://github.com/tin0521/recallimg/raw/refs/heads/main/img_20241013_202240324.png",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_apocalypse.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Roguish Ranger",
+    "image": "https://github.com/tin0521/recallimg/raw/refs/heads/main/img_20241013_202240310.png",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_roguish.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Surging Torrent",
+    "image": "https://github.com/tin0521/recallimg/raw/refs/heads/main/img_20241013_202240238.png",
+    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_s31.zip",
+    "tag": "S31"
+  }
+]
