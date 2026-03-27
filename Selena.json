@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cb=20240122041957",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_backup.zip",
+    "tag": "Backup"
+  },
+  {
+    "name": "Lady Vengeance",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cb=20220525165610",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_abyss.zip",
+    "tag": "Abyss"
+  },
+  {
+    "name": "Thunder Flash",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest?cb=20220525165607",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_luckybox.zip",
+    "tag": "LuckyBox"
+  },
+  {
+    "name": "Virus",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cb=20220525165604",
+    "script": "hhttps://github.com/tin0521/mge/raw/refs/heads/main/selena_virus.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Double Identity",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest?cb=20220525165606",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_double.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "S.T.U.N. Selena",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cb=20220525165609",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_stun.zip",
+    "tag": "S.T.U.N"
+  },
+  {
+    "name": "Gemini - Shadow",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_zodiac.zip",
+    "tag": "Zodiac"
+  },
+  {
+    "name": "Gothic Curse",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest?cb=20220525165608",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_ghotic.zip",
+    "tag": "Elite"
+  },
+  {
+    "name": "Upcoming Skin",
+    "image": "https://github.com/tin0521/mmimg/raw/refs/heads/main/img_20241110_230420636.png",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_wraith.zip",
+    "tag": "Epic"
+  },
+  {
+    "name": "Curse of Cinders",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest?cb=20250109163106",
+    "script": "https://github.com/tin0521/mge/raw/refs/heads/main/selena_zenith.zip",
+    "tag": "Zenith"
+  }
+]
